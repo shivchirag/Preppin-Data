@@ -1,0 +1,1896 @@
+,Flow Card?,Bags Checked,Meal Type,Date,Flight Number,From,To,Class,Price
+1,No,2,Vegetarian,2024-09-28,PA008,Perth,New York,Economy,1855.0
+4,No,0,Vegetarian,2024-10-01,PA008,Perth,New York,Business Class,634.8
+5,No,3,Nut Free,2024-03-04,PA007,New York,Perth,Business Class,458.4
+7,No,0,None,2024-02-25,PA010,Tokyo,New York,Premium Economy,1435.0
+13,No,2,Vegan,2024-03-29,PA004,Perth,London,Economy,2730.0
+14,No,2,Egg Free,2024-06-07,PA005,London,Tokyo,Business Class,294.0
+15,No,1,Vegetarian,2024-06-30,PA009,New York,Tokyo,First Class,236.0
+16,No,2,Vegan,2024-08-12,PA011,Perth,Tokyo,Economy,2570.0
+18,No,2,None,2024-11-05,PA010,Tokyo,New York,First Class,397.0
+20,No,2,Egg Free,2024-03-19,PA003,London,Perth,First Class,585.0
+21,No,3,Nut Free,2024-02-19,PA011,Perth,Tokyo,Premium Economy,630.0
+22,No,3,Dairy Free,2024-03-10,PA011,Perth,Tokyo,Business Class,556.8
+26,No,3,Nut Free,2024-12-21,PA006,Tokyo,London,Business Class,307.2
+29,No,2,Dairy Free,2024-12-18,PA002,New York,London,Premium Economy,917.5
+34,No,1,Vegetarian,2024-06-16,PA012,Tokyo,Perth,Business Class,555.6
+35,No,0,Egg Free,2024-03-07,PA006,Tokyo,London,Business Class,811.1999999999998
+36,No,0,Nut Free,2024-07-29,PA008,Perth,New York,Economy,2225.0
+37,No,0,Egg Free,2024-07-04,PA004,Perth,London,Economy,2705.0
+43,No,1,Dairy Free,2024-01-06,PA011,Perth,Tokyo,Premium Economy,632.5
+44,No,2,Dairy Free,2024-08-31,PA012,Tokyo,Perth,Premium Economy,1207.5
+45,No,2,Egg Free,2024-03-26,PA008,Perth,New York,Business Class,484.8
+47,No,2,Vegan,2024-11-17,PA009,New York,Tokyo,First Class,578.0
+48,No,2,Vegan,2024-02-12,PA010,Tokyo,New York,Premium Economy,842.5
+49,No,1,Egg Free,2024-05-05,PA012,Tokyo,Perth,Business Class,788.4
+51,No,2,Egg Free,2024-08-30,PA005,London,Tokyo,First Class,417.0
+54,No,0,Vegan,2024-12-24,PA006,Tokyo,London,Premium Economy,1710.0
+58,No,1,Vegetarian,2024-05-19,PA004,Perth,London,Business Class,811.1999999999998
+60,No,3,Nut Free,2024-03-21,PA002,New York,London,First Class,230.0
+61,No,2,None,2024-10-06,PA001,London,New York,Business Class,349.2
+67,No,3,None,2024-01-06,PA008,Perth,New York,Premium Economy,820.0
+68,No,2,Vegan,2024-06-01,PA006,Tokyo,London,First Class,416.0
+71,No,1,Dairy Free,2024-11-06,PA001,London,New York,Business Class,546.0
+72,No,0,Nut Free,2024-03-16,PA011,Perth,Tokyo,Economy,3210.0
+77,No,3,Vegan,2024-05-16,PA009,New York,Tokyo,Economy,1540.0
+83,No,1,Egg Free,2024-05-09,PA012,Tokyo,Perth,Economy,3325.0
+86,No,2,Vegan,2024-05-23,PA004,Perth,London,Economy,3375.0
+87,No,2,Egg Free,2024-12-18,PA002,New York,London,Economy,2910.0
+89,No,2,Egg Free,2024-02-02,PA012,Tokyo,Perth,Economy,3155.0
+92,No,3,Egg Free,2024-10-20,PA002,New York,London,Premium Economy,1547.5
+93,No,1,Egg Free,2024-11-26,PA006,Tokyo,London,Economy,1550.0
+95,No,0,Vegan,2024-11-04,PA008,Perth,New York,Business Class,764.4
+96,No,0,Vegan,2024-09-14,PA003,London,Perth,Business Class,654.0
+100,No,0,Dairy Free,2024-03-17,PA004,Perth,London,Premium Economy,1230.0
+101,No,1,Nut Free,2024-12-31,PA006,Tokyo,London,Business Class,783.6
+102,No,3,Vegetarian,2024-05-13,PA010,Tokyo,New York,First Class,493.0
+103,No,3,Vegan,2024-08-07,PA004,Perth,London,Economy,2025.0
+104,No,3,None,2024-12-05,PA007,New York,Perth,First Class,523.0
+108,No,0,Vegan,2024-11-29,PA010,Tokyo,New York,Business Class,325.2
+109,No,0,Vegetarian,2024-05-30,PA003,London,Perth,Business Class,828.0
+112,No,3,Dairy Free,2024-03-06,PA010,Tokyo,New York,First Class,563.0
+117,No,2,Nut Free,2024-04-21,PA001,London,New York,First Class,202.0
+119,No,3,Egg Free,2024-08-07,PA006,Tokyo,London,First Class,468.0
+120,No,3,Vegan,2024-05-05,PA002,New York,London,Premium Economy,850.0
+125,No,0,Vegetarian,2024-06-10,PA004,Perth,London,Economy,1710.0
+126,No,3,Vegan,2024-05-11,PA009,New York,Tokyo,Premium Economy,1497.5
+127,No,3,Egg Free,2024-11-21,PA007,New York,Perth,Business Class,715.1999999999999
+135,No,3,Dairy Free,2024-06-12,PA007,New York,Perth,Premium Economy,817.5
+136,No,1,Vegan,2024-10-14,PA005,London,Tokyo,Economy,1490.0
+138,No,3,Nut Free,2024-03-31,PA010,Tokyo,New York,Premium Economy,1282.5
+140,No,1,Egg Free,2024-02-14,PA009,New York,Tokyo,First Class,473.0
+141,No,1,Dairy Free,2024-09-04,PA012,Tokyo,Perth,Premium Economy,1177.5
+143,No,3,Egg Free,2024-06-29,PA005,London,Tokyo,Business Class,639.6
+147,No,0,Dairy Free,2024-06-18,PA004,Perth,London,First Class,443.0
+148,No,2,Nut Free,2024-08-04,PA006,Tokyo,London,Business Class,832.7999999999998
+149,No,0,Nut Free,2024-08-03,PA005,London,Tokyo,First Class,590.0
+150,No,1,Dairy Free,2024-03-02,PA003,London,Perth,Business Class,439.2
+151,No,0,Nut Free,2024-07-07,PA004,Perth,London,Business Class,242.4
+152,No,0,Nut Free,2024-10-18,PA010,Tokyo,New York,Premium Economy,1642.5
+154,No,1,Nut Free,2024-07-10,PA012,Tokyo,Perth,First Class,287.0
+155,No,3,Vegetarian,2024-06-15,PA009,New York,Tokyo,First Class,500.0
+156,No,3,Egg Free,2024-03-02,PA006,Tokyo,London,Economy,3070.0
+158,No,3,Vegetarian,2024-03-17,PA012,Tokyo,Perth,Premium Economy,587.5
+159,No,1,Nut Free,2024-10-28,PA012,Tokyo,Perth,Economy,1235.0
+160,No,1,None,2024-11-06,PA001,London,New York,Premium Economy,1270.0
+162,No,2,Nut Free,2024-08-13,PA004,Perth,London,Premium Economy,735.0
+166,No,3,Dairy Free,2024-05-22,PA007,New York,Perth,Economy,2645.0
+168,No,3,Egg Free,2024-05-18,PA008,Perth,New York,Business Class,271.2
+170,No,3,Egg Free,2024-04-01,PA005,London,Tokyo,Premium Economy,1597.5
+171,No,3,None,2024-07-20,PA006,Tokyo,London,First Class,215.0
+172,No,0,Vegan,2024-02-15,PA012,Tokyo,Perth,First Class,208.0
+173,No,3,Nut Free,2024-02-08,PA009,New York,Tokyo,Premium Economy,610.0
+175,No,3,Dairy Free,2024-03-05,PA001,London,New York,Economy,2685.0
+176,No,0,Dairy Free,2024-06-17,PA004,Perth,London,Premium Economy,1487.5
+177,No,0,Dairy Free,2024-09-08,PA005,London,Tokyo,Business Class,422.4
+180,No,0,Vegetarian,2024-10-01,PA005,London,Tokyo,Economy,1225.0
+182,No,1,Dairy Free,2024-09-10,PA006,Tokyo,London,First Class,670.0
+187,No,1,Dairy Free,2024-05-25,PA001,London,New York,Economy,1745.0
+188,No,0,Nut Free,2024-09-27,PA008,Perth,New York,Economy,1770.0
+189,No,0,Dairy Free,2024-10-08,PA008,Perth,New York,Economy,3090.0
+192,No,0,Vegan,2024-11-15,PA003,London,Perth,Premium Economy,735.0
+193,No,2,Egg Free,2024-01-29,PA004,Perth,London,Business Class,435.6
+194,No,2,Vegan,2024-01-26,PA001,London,New York,First Class,381.0
+195,No,2,Egg Free,2024-04-20,PA003,London,Perth,Business Class,688.8
+196,No,1,None,2024-08-12,PA005,London,Tokyo,Economy,1050.0
+198,No,0,Vegetarian,2024-07-04,PA003,London,Perth,Premium Economy,1307.5
+199,No,1,Egg Free,2024-04-01,PA001,London,New York,Business Class,512.4
+200,No,3,Nut Free,2024-04-21,PA004,Perth,London,Business Class,679.1999999999999
+201,No,0,Vegetarian,2024-01-30,PA004,Perth,London,Business Class,246.0
+204,No,1,Dairy Free,2024-02-11,PA005,London,Tokyo,Premium Economy,1567.5
+205,No,1,Nut Free,2024-11-17,PA009,New York,Tokyo,First Class,340.0
+206,No,1,Vegetarian,2024-08-08,PA012,Tokyo,Perth,First Class,426.0
+208,No,3,Dairy Free,2024-12-20,PA002,New York,London,Business Class,574.8
+209,No,3,Dairy Free,2024-07-02,PA006,Tokyo,London,First Class,522.0
+213,No,3,Egg Free,2024-10-25,PA010,Tokyo,New York,Economy,1170.0
+216,No,0,Vegetarian,2024-11-18,PA005,London,Tokyo,Economy,3305.0
+218,No,3,Dairy Free,2024-06-02,PA011,Perth,Tokyo,Premium Economy,1177.5
+219,No,3,Nut Free,2024-08-09,PA009,New York,Tokyo,First Class,612.0
+221,No,2,None,2024-08-24,PA010,Tokyo,New York,Economy,2145.0
+223,No,1,Vegetarian,2024-11-11,PA008,Perth,New York,Economy,2980.0
+224,No,1,Vegan,2024-11-02,PA011,Perth,Tokyo,First Class,441.0
+226,No,2,Dairy Free,2024-04-06,PA011,Perth,Tokyo,Premium Economy,960.0
+228,No,1,None,2024-01-03,PA007,New York,Perth,Economy,3300.0
+231,No,0,Vegetarian,2024-01-02,PA009,New York,Tokyo,Business Class,793.1999999999998
+235,No,0,None,2024-09-17,PA006,Tokyo,London,Business Class,543.6
+236,No,2,None,2024-03-11,PA009,New York,Tokyo,Business Class,446.4
+240,No,2,Egg Free,2024-10-11,PA002,New York,London,Business Class,602.4
+241,No,2,Nut Free,2024-10-31,PA011,Perth,Tokyo,Economy,2915.0
+242,No,2,Vegan,2024-08-25,PA001,London,New York,First Class,673.0
+244,No,0,Dairy Free,2024-08-15,PA003,London,Perth,Premium Economy,555.0
+247,No,1,None,2024-10-18,PA009,New York,Tokyo,Premium Economy,1372.5
+249,No,2,Nut Free,2024-03-20,PA008,Perth,New York,First Class,357.0
+250,No,3,Vegetarian,2024-01-12,PA008,Perth,New York,Business Class,601.1999999999999
+253,No,1,Vegan,2024-06-13,PA003,London,Perth,Premium Economy,1382.5
+254,No,2,Nut Free,2024-04-01,PA007,New York,Perth,First Class,359.0
+257,No,0,Dairy Free,2024-03-22,PA010,Tokyo,New York,Premium Economy,1135.0
+259,No,2,Vegetarian,2024-01-18,PA010,Tokyo,New York,First Class,415.0
+261,No,0,Egg Free,2024-12-12,PA006,Tokyo,London,Economy,1640.0
+262,No,1,Egg Free,2024-12-07,PA009,New York,Tokyo,First Class,662.0
+263,No,2,None,2024-11-03,PA012,Tokyo,Perth,First Class,242.0
+264,No,1,Dairy Free,2024-09-22,PA009,New York,Tokyo,Economy,1690.0
+267,No,3,Egg Free,2024-06-07,PA007,New York,Perth,Premium Economy,570.0
+268,No,3,Vegetarian,2024-06-24,PA012,Tokyo,Perth,Premium Economy,1597.5
+270,No,2,Vegan,2024-04-06,PA005,London,Tokyo,Economy,2465.0
+273,No,2,Vegetarian,2024-09-11,PA007,New York,Perth,Business Class,602.4
+276,No,0,Egg Free,2024-08-30,PA002,New York,London,Economy,3095.0
+282,No,1,Vegan,2024-11-05,PA002,New York,London,First Class,652.0
+284,No,2,Nut Free,2024-08-07,PA010,Tokyo,New York,Business Class,392.4
+286,No,1,Vegan,2024-06-03,PA007,New York,Perth,Premium Economy,1390.0
+287,No,2,Vegetarian,2024-11-21,PA003,London,Perth,First Class,599.0
+290,No,1,None,2024-02-16,PA009,New York,Tokyo,Premium Economy,675.0
+292,No,2,None,2024-05-30,PA007,New York,Perth,Business Class,417.6
+293,No,2,Vegan,2024-12-27,PA012,Tokyo,Perth,First Class,606.0
+301,No,0,Egg Free,2024-10-31,PA008,Perth,New York,Economy,1785.0
+309,No,2,Vegetarian,2024-02-14,PA007,New York,Perth,Business Class,408.0
+314,No,3,Vegan,2024-08-24,PA003,London,Perth,First Class,294.0
+315,No,2,Dairy Free,2024-11-22,PA012,Tokyo,Perth,Business Class,598.8
+316,No,3,Egg Free,2024-03-27,PA003,London,Perth,Business Class,756.0
+317,No,1,Nut Free,2024-04-30,PA012,Tokyo,Perth,Economy,1600.0
+318,No,0,Vegetarian,2024-09-06,PA006,Tokyo,London,First Class,489.0
+319,No,2,Vegetarian,2024-02-01,PA005,London,Tokyo,Premium Economy,1480.0
+321,No,3,Egg Free,2024-11-25,PA012,Tokyo,Perth,Premium Economy,1432.5
+323,No,2,Dairy Free,2024-05-12,PA012,Tokyo,Perth,Business Class,744.0
+326,No,1,Vegetarian,2024-07-16,PA010,Tokyo,New York,Economy,1460.0
+331,No,3,Vegetarian,2024-08-19,PA006,Tokyo,London,Economy,2000.0
+333,No,3,None,2024-08-01,PA011,Perth,Tokyo,Business Class,452.4
+334,No,2,Vegan,2024-12-28,PA001,London,New York,Economy,1105.0
+335,No,2,Egg Free,2024-11-02,PA006,Tokyo,London,Economy,2225.0
+343,No,0,Nut Free,2024-09-25,PA007,New York,Perth,Premium Economy,522.5
+350,No,3,Nut Free,2024-07-01,PA012,Tokyo,Perth,Business Class,655.1999999999999
+351,No,0,Nut Free,2024-12-20,PA004,Perth,London,Business Class,760.7999999999998
+353,No,1,Nut Free,2024-07-24,PA005,London,Tokyo,Business Class,246.0
+357,No,3,None,2024-12-25,PA002,New York,London,Economy,2905.0
+359,No,1,Vegan,2024-08-18,PA005,London,Tokyo,Economy,1975.0
+360,No,1,Dairy Free,2024-01-12,PA011,Perth,Tokyo,Business Class,780.0
+361,No,1,Egg Free,2024-12-03,PA011,Perth,Tokyo,Premium Economy,945.0
+362,No,2,Dairy Free,2024-12-30,PA011,Perth,Tokyo,Premium Economy,745.0
+365,No,1,Vegan,2024-05-06,PA004,Perth,London,First Class,318.0
+367,No,1,Vegetarian,2024-10-09,PA007,New York,Perth,Premium Economy,875.0
+369,No,3,Vegetarian,2024-02-17,PA008,Perth,New York,Economy,1340.0
+370,No,0,Egg Free,2024-10-27,PA005,London,Tokyo,First Class,683.0
+371,No,0,None,2024-06-18,PA001,London,New York,Business Class,280.8
+374,No,2,None,2024-12-05,PA009,New York,Tokyo,Business Class,799.1999999999998
+375,No,3,Vegetarian,2024-12-31,PA010,Tokyo,New York,Premium Economy,690.0
+376,No,3,Vegetarian,2024-02-08,PA006,Tokyo,London,Business Class,534.0
+377,No,0,None,2024-02-21,PA004,Perth,London,First Class,317.0
+378,No,0,Dairy Free,2024-05-01,PA011,Perth,Tokyo,Economy,2780.0
+382,No,0,Vegan,2024-10-10,PA009,New York,Tokyo,Business Class,718.8
+387,No,1,Nut Free,2024-07-05,PA007,New York,Perth,Business Class,838.7999999999998
+389,No,1,Vegan,2024-02-10,PA005,London,Tokyo,Business Class,574.8
+390,No,0,None,2024-06-09,PA001,London,New York,Premium Economy,1045.0
+391,No,3,Dairy Free,2024-02-04,PA005,London,Tokyo,Business Class,328.8
+393,No,3,Egg Free,2024-07-12,PA004,Perth,London,Economy,2430.0
+394,No,2,Nut Free,2024-02-08,PA008,Perth,New York,Business Class,506.4
+395,No,1,Vegan,2024-10-21,PA008,Perth,New York,Premium Economy,1677.5
+396,No,2,Vegetarian,2024-04-20,PA003,London,Perth,Economy,2030.0
+398,No,3,None,2024-06-26,PA004,Perth,London,Business Class,632.4
+399,No,1,Nut Free,2024-12-31,PA001,London,New York,First Class,598.0
+400,No,3,Dairy Free,2024-10-24,PA002,New York,London,First Class,691.0
+402,No,1,Vegan,2024-06-25,PA009,New York,Tokyo,First Class,224.0
+403,No,0,Vegan,2024-10-27,PA012,Tokyo,Perth,Premium Economy,1357.5
+404,No,3,Dairy Free,2024-04-23,PA004,Perth,London,First Class,276.0
+406,No,1,None,2024-10-21,PA010,Tokyo,New York,Premium Economy,1125.0
+408,No,3,None,2024-03-20,PA005,London,Tokyo,Premium Economy,1577.5
+411,No,2,Dairy Free,2024-05-10,PA010,Tokyo,New York,Economy,1820.0
+414,No,1,Vegan,2024-03-19,PA012,Tokyo,Perth,Economy,2145.0
+415,No,1,Dairy Free,2024-10-30,PA011,Perth,Tokyo,Economy,2500.0
+416,No,0,Vegan,2024-07-05,PA004,Perth,London,Premium Economy,1242.5
+417,No,2,Nut Free,2024-04-20,PA009,New York,Tokyo,Economy,2535.0
+420,No,3,Dairy Free,2024-11-28,PA009,New York,Tokyo,Business Class,240.0
+423,No,3,Vegetarian,2024-08-16,PA011,Perth,Tokyo,Economy,1810.0
+424,No,0,Vegetarian,2024-12-29,PA005,London,Tokyo,Business Class,745.1999999999998
+426,No,0,Dairy Free,2024-06-01,PA012,Tokyo,Perth,First Class,368.0
+431,No,3,None,2024-08-26,PA009,New York,Tokyo,Premium Economy,1452.5
+433,No,2,Dairy Free,2024-05-25,PA006,Tokyo,London,First Class,336.0
+434,No,3,Vegan,2024-11-11,PA001,London,New York,Premium Economy,1680.0
+436,No,1,Dairy Free,2024-04-04,PA010,Tokyo,New York,First Class,266.0
+437,No,2,Nut Free,2024-10-24,PA003,London,Perth,Economy,3235.0
+438,No,0,Vegan,2024-06-27,PA011,Perth,Tokyo,First Class,358.0
+439,No,3,Egg Free,2024-08-08,PA011,Perth,Tokyo,Business Class,258.0
+442,No,0,Nut Free,2024-08-10,PA011,Perth,Tokyo,Premium Economy,1512.5
+443,No,3,None,2024-05-13,PA009,New York,Tokyo,Premium Economy,1160.0
+446,No,1,Nut Free,2024-04-05,PA012,Tokyo,Perth,First Class,336.0
+447,No,1,Egg Free,2024-06-22,PA007,New York,Perth,Premium Economy,1127.5
+448,No,3,Vegan,2024-09-13,PA001,London,New York,Economy,2270.0
+451,No,3,Vegan,2024-02-26,PA002,New York,London,Premium Economy,1382.5
+452,No,3,Vegan,2024-04-03,PA008,Perth,New York,First Class,548.0
+453,No,3,Egg Free,2024-06-06,PA004,Perth,London,Economy,3120.0
+458,No,3,Vegetarian,2024-12-27,PA001,London,New York,Economy,1390.0
+459,No,3,Nut Free,2024-04-18,PA005,London,Tokyo,Premium Economy,927.5
+462,No,0,Vegan,2024-03-16,PA009,New York,Tokyo,Economy,1235.0
+464,No,1,Dairy Free,2024-06-07,PA008,Perth,New York,Business Class,735.6
+465,No,3,Vegetarian,2024-08-26,PA007,New York,Perth,Economy,3360.0
+466,No,0,Egg Free,2024-12-13,PA006,Tokyo,London,Economy,2715.0
+467,No,1,None,2024-09-23,PA001,London,New York,Economy,2400.0
+471,No,3,Nut Free,2024-07-09,PA009,New York,Tokyo,Economy,1815.0
+474,No,0,Vegan,2024-06-15,PA003,London,Perth,Economy,2600.0
+475,No,2,Nut Free,2024-10-13,PA012,Tokyo,Perth,Premium Economy,1092.5
+477,No,0,None,2024-12-11,PA010,Tokyo,New York,Premium Economy,1572.5
+479,No,3,Nut Free,2024-12-31,PA010,Tokyo,New York,Economy,1355.0
+486,No,0,Vegan,2024-06-10,PA002,New York,London,Business Class,642.0
+489,No,2,Dairy Free,2024-11-11,PA006,Tokyo,London,First Class,565.0
+490,No,0,Vegetarian,2024-09-14,PA008,Perth,New York,Premium Economy,1070.0
+493,No,2,Nut Free,2024-07-05,PA011,Perth,Tokyo,Economy,2490.0
+503,No,3,Vegetarian,2024-12-03,PA011,Perth,Tokyo,Economy,2195.0
+506,No,2,None,2024-09-25,PA001,London,New York,Premium Economy,1375.0
+508,No,3,None,2024-07-20,PA009,New York,Tokyo,First Class,470.0
+509,No,1,Vegetarian,2024-10-25,PA001,London,New York,First Class,633.0
+513,No,0,Dairy Free,2024-04-08,PA002,New York,London,Business Class,752.4
+514,No,2,Vegan,2024-03-16,PA012,Tokyo,Perth,First Class,618.0
+515,No,1,None,2024-08-05,PA012,Tokyo,Perth,Economy,3475.0
+516,No,2,Egg Free,2024-08-29,PA006,Tokyo,London,Premium Economy,670.0
+517,No,1,Vegetarian,2024-06-13,PA007,New York,Perth,Business Class,402.0
+518,No,0,Nut Free,2024-11-06,PA011,Perth,Tokyo,Business Class,271.2
+519,No,0,Nut Free,2024-05-04,PA005,London,Tokyo,Economy,1205.0
+521,No,0,None,2024-02-28,PA007,New York,Perth,Business Class,645.6
+522,No,3,Nut Free,2024-07-27,PA012,Tokyo,Perth,Business Class,466.8
+524,No,2,Vegetarian,2024-11-27,PA011,Perth,Tokyo,Economy,1210.0
+525,No,0,Egg Free,2024-08-20,PA006,Tokyo,London,Business Class,504.0
+527,No,0,Vegetarian,2024-11-30,PA002,New York,London,Premium Economy,1327.5
+529,No,1,Vegan,2024-04-14,PA007,New York,Perth,Economy,2650.0
+530,No,3,Dairy Free,2024-04-10,PA003,London,Perth,First Class,376.0
+531,No,0,Vegetarian,2024-03-29,PA007,New York,Perth,Business Class,730.7999999999998
+536,No,2,None,2024-06-12,PA008,Perth,New York,Business Class,820.7999999999998
+538,No,3,Egg Free,2024-01-26,PA011,Perth,Tokyo,Premium Economy,1627.5
+539,No,1,Vegetarian,2024-06-13,PA005,London,Tokyo,Economy,3045.0
+540,No,0,Nut Free,2024-09-02,PA006,Tokyo,London,Economy,1265.0
+542,No,0,Vegan,2024-01-12,PA009,New York,Tokyo,Premium Economy,1230.0
+545,No,3,None,2024-02-06,PA003,London,Perth,Business Class,742.7999999999998
+547,No,0,Vegan,2024-03-20,PA009,New York,Tokyo,Premium Economy,722.5
+549,No,1,Nut Free,2024-04-23,PA003,London,Perth,Economy,1915.0
+551,No,0,Nut Free,2024-02-03,PA004,Perth,London,Economy,2150.0
+552,No,1,None,2024-01-11,PA005,London,Tokyo,Premium Economy,542.5
+553,No,1,Egg Free,2024-12-03,PA012,Tokyo,Perth,First Class,681.0
+554,No,0,Vegetarian,2024-10-21,PA008,Perth,New York,Business Class,793.1999999999998
+555,No,3,None,2024-02-11,PA012,Tokyo,Perth,First Class,453.0
+557,No,1,Nut Free,2024-09-01,PA006,Tokyo,London,Economy,2645.0
+558,No,0,Dairy Free,2024-01-26,PA001,London,New York,Economy,1185.0
+559,No,0,Nut Free,2024-10-29,PA002,New York,London,Premium Economy,1627.5
+562,No,3,Egg Free,2024-06-27,PA012,Tokyo,Perth,Premium Economy,1260.0
+564,No,2,Egg Free,2024-04-10,PA007,New York,Perth,Economy,1935.0
+565,No,0,Egg Free,2024-04-16,PA007,New York,Perth,First Class,425.0
+566,No,0,Dairy Free,2024-08-02,PA003,London,Perth,Business Class,273.6
+567,No,0,Egg Free,2024-09-08,PA012,Tokyo,Perth,First Class,389.0
+568,No,1,Dairy Free,2024-09-15,PA001,London,New York,Business Class,392.4
+569,No,0,Vegetarian,2024-01-04,PA010,Tokyo,New York,Economy,2495.0
+570,No,3,Egg Free,2024-04-24,PA008,Perth,New York,Business Class,532.8
+571,No,2,Nut Free,2024-08-27,PA001,London,New York,First Class,421.0
+573,No,3,None,2024-04-23,PA001,London,New York,Business Class,246.0
+574,No,3,Egg Free,2024-08-07,PA006,Tokyo,London,Premium Economy,607.5
+575,No,3,Nut Free,2024-12-09,PA009,New York,Tokyo,Economy,1995.0
+580,No,3,None,2024-05-22,PA009,New York,Tokyo,First Class,389.0
+581,No,2,Vegetarian,2024-04-19,PA010,Tokyo,New York,First Class,601.0
+583,No,0,Vegan,2024-12-05,PA002,New York,London,First Class,665.0
+586,No,3,Vegetarian,2024-07-28,PA006,Tokyo,London,Premium Economy,1180.0
+587,No,1,Vegan,2024-07-11,PA009,New York,Tokyo,Premium Economy,1402.5
+588,No,1,Egg Free,2024-02-25,PA002,New York,London,Economy,1690.0
+589,No,2,None,2024-12-16,PA010,Tokyo,New York,Business Class,331.2
+596,No,1,Vegan,2024-04-14,PA004,Perth,London,Economy,1315.0
+597,No,1,Vegan,2024-11-30,PA002,New York,London,Business Class,634.8
+599,No,1,None,2024-05-14,PA012,Tokyo,Perth,Business Class,811.1999999999998
+602,No,1,Vegan,2024-06-06,PA011,Perth,Tokyo,Economy,1000.0
+605,No,0,Nut Free,2024-02-28,PA010,Tokyo,New York,Economy,1105.0
+607,No,3,Vegan,2024-03-09,PA004,Perth,London,Economy,2160.0
+608,No,0,Dairy Free,2024-01-26,PA009,New York,Tokyo,Economy,3150.0
+612,No,1,Vegetarian,2024-07-17,PA001,London,New York,First Class,210.0
+613,No,1,Vegan,2024-08-19,PA007,New York,Perth,Premium Economy,862.5
+614,No,0,Dairy Free,2024-01-02,PA011,Perth,Tokyo,First Class,495.0
+617,No,2,None,2024-11-24,PA010,Tokyo,New York,Premium Economy,1155.0
+618,No,2,Nut Free,2024-02-22,PA011,Perth,Tokyo,Business Class,534.0
+620,No,3,Nut Free,2024-12-25,PA012,Tokyo,Perth,First Class,506.0
+622,No,2,None,2024-09-21,PA008,Perth,New York,Business Class,445.2
+624,No,2,Vegan,2024-05-27,PA004,Perth,London,Economy,3020.0
+626,No,3,Dairy Free,2024-10-30,PA008,Perth,New York,Business Class,423.6
+628,No,0,Vegan,2024-05-03,PA012,Tokyo,Perth,Economy,1395.0
+630,No,2,Nut Free,2024-03-29,PA001,London,New York,First Class,208.0
+632,No,0,Vegan,2024-10-25,PA010,Tokyo,New York,Business Class,382.8
+634,No,1,Dairy Free,2024-08-07,PA004,Perth,London,Premium Economy,710.0
+636,No,3,Nut Free,2024-07-13,PA005,London,Tokyo,Premium Economy,927.5
+639,No,0,Nut Free,2024-05-20,PA004,Perth,London,Business Class,807.6
+640,No,0,Egg Free,2024-09-19,PA012,Tokyo,Perth,Premium Economy,717.5
+642,No,1,Vegetarian,2024-11-10,PA011,Perth,Tokyo,First Class,266.0
+643,No,3,Egg Free,2024-12-17,PA011,Perth,Tokyo,Business Class,272.4
+644,No,2,Egg Free,2024-11-10,PA007,New York,Perth,Business Class,646.8
+645,No,3,Nut Free,2024-04-21,PA003,London,Perth,First Class,594.0
+646,No,0,None,2024-01-18,PA005,London,Tokyo,First Class,649.0
+648,No,2,Vegan,2024-04-30,PA011,Perth,Tokyo,First Class,693.0
+651,No,0,None,2024-12-06,PA003,London,Perth,First Class,436.0
+652,No,0,Nut Free,2024-02-11,PA005,London,Tokyo,First Class,427.0
+653,No,2,Dairy Free,2024-05-19,PA011,Perth,Tokyo,First Class,660.0
+656,No,0,Vegan,2024-01-23,PA010,Tokyo,New York,Business Class,554.4
+657,No,1,Nut Free,2024-10-07,PA006,Tokyo,London,Premium Economy,1572.5
+659,No,0,Egg Free,2024-07-02,PA007,New York,Perth,Business Class,338.4
+660,No,2,None,2024-03-13,PA008,Perth,New York,Premium Economy,662.5
+661,No,0,Dairy Free,2024-07-22,PA010,Tokyo,New York,Premium Economy,1540.0
+662,No,3,Egg Free,2024-05-07,PA012,Tokyo,Perth,Business Class,609.6
+663,No,0,Vegan,2024-06-10,PA011,Perth,Tokyo,Premium Economy,1260.0
+665,No,0,Vegan,2024-01-25,PA001,London,New York,First Class,224.0
+667,No,0,Vegetarian,2024-06-15,PA009,New York,Tokyo,First Class,470.0
+668,No,0,Nut Free,2024-07-20,PA010,Tokyo,New York,Economy,2535.0
+670,No,1,None,2024-11-06,PA001,London,New York,Premium Economy,965.0
+671,No,1,Nut Free,2024-06-28,PA006,Tokyo,London,Economy,1885.0
+677,No,2,Egg Free,2024-05-10,PA003,London,Perth,Economy,1350.0
+678,No,1,Dairy Free,2024-01-16,PA009,New York,Tokyo,Business Class,670.8
+679,No,0,None,2024-01-20,PA004,Perth,London,First Class,470.0
+681,No,2,Nut Free,2024-10-30,PA005,London,Tokyo,Premium Economy,1187.5
+684,No,0,Dairy Free,2024-12-17,PA002,New York,London,Economy,3085.0
+685,No,0,Nut Free,2024-04-19,PA009,New York,Tokyo,Economy,2475.0
+686,No,0,None,2024-07-02,PA001,London,New York,First Class,554.0
+689,No,2,Egg Free,2024-09-23,PA004,Perth,London,Economy,3230.0
+692,No,0,Vegetarian,2024-08-30,PA008,Perth,New York,Business Class,482.4
+693,No,2,None,2024-06-08,PA007,New York,Perth,Business Class,490.8
+695,No,1,Vegetarian,2024-04-11,PA007,New York,Perth,First Class,661.0
+697,No,3,None,2024-02-13,PA003,London,Perth,First Class,572.0
+699,No,1,Vegetarian,2024-06-20,PA011,Perth,Tokyo,Business Class,259.2
+702,No,3,Vegetarian,2024-08-28,PA003,London,Perth,Economy,1475.0
+706,No,0,Dairy Free,2024-04-18,PA011,Perth,Tokyo,Business Class,327.6
+707,No,3,Dairy Free,2024-08-31,PA003,London,Perth,Economy,3055.0
+710,No,2,None,2024-04-30,PA008,Perth,New York,Economy,3265.0
+711,No,3,Nut Free,2024-07-03,PA005,London,Tokyo,Business Class,374.4
+713,No,1,Nut Free,2024-07-30,PA005,London,Tokyo,Premium Economy,1347.5
+714,No,1,Nut Free,2024-12-06,PA011,Perth,Tokyo,Economy,2705.0
+717,No,1,None,2024-07-29,PA005,London,Tokyo,Business Class,262.8
+720,No,2,Egg Free,2024-01-21,PA006,Tokyo,London,First Class,647.0
+721,No,1,Vegetarian,2024-04-06,PA010,Tokyo,New York,First Class,324.0
+722,No,1,Egg Free,2024-04-19,PA011,Perth,Tokyo,Business Class,394.8
+723,No,0,None,2024-01-18,PA007,New York,Perth,First Class,554.0
+731,No,3,Vegan,2024-08-24,PA011,Perth,Tokyo,Business Class,780.0
+732,No,3,Nut Free,2024-08-09,PA011,Perth,Tokyo,First Class,420.0
+734,No,2,None,2024-12-23,PA008,Perth,New York,Economy,1905.0
+740,No,3,Egg Free,2024-10-27,PA006,Tokyo,London,Premium Economy,1360.0
+741,No,0,Dairy Free,2024-12-02,PA001,London,New York,Economy,2530.0
+742,No,1,Vegetarian,2024-03-04,PA006,Tokyo,London,Premium Economy,1257.5
+743,No,3,Vegan,2024-09-19,PA008,Perth,New York,First Class,495.0
+745,No,1,Nut Free,2024-12-20,PA005,London,Tokyo,First Class,646.0
+747,No,2,Nut Free,2024-12-23,PA004,Perth,London,Economy,2635.0
+750,No,0,Dairy Free,2024-06-18,PA001,London,New York,Economy,1390.0
+751,No,3,Vegetarian,2024-01-17,PA006,Tokyo,London,Economy,2140.0
+753,No,2,Egg Free,2024-12-19,PA006,Tokyo,London,First Class,296.0
+754,No,2,Nut Free,2024-01-04,PA003,London,Perth,First Class,443.0
+758,No,2,Vegetarian,2024-10-05,PA009,New York,Tokyo,Business Class,787.1999999999998
+761,No,2,Dairy Free,2024-12-23,PA009,New York,Tokyo,First Class,630.0
+762,No,3,Vegan,2024-12-04,PA011,Perth,Tokyo,First Class,295.0
+769,No,1,Vegan,2024-07-22,PA004,Perth,London,Economy,3170.0
+772,No,0,None,2024-03-11,PA011,Perth,Tokyo,Business Class,560.4
+773,No,3,Vegetarian,2024-05-24,PA008,Perth,New York,First Class,553.0
+775,No,2,Egg Free,2024-02-02,PA005,London,Tokyo,Business Class,793.1999999999998
+776,No,1,Dairy Free,2024-03-30,PA003,London,Perth,Premium Economy,537.5
+777,No,2,None,2024-10-03,PA012,Tokyo,Perth,Premium Economy,682.5
+778,No,1,Vegan,2024-03-23,PA010,Tokyo,New York,Economy,1755.0
+779,No,1,Dairy Free,2024-08-15,PA008,Perth,New York,Business Class,596.4
+782,No,3,Vegan,2024-03-03,PA003,London,Perth,Business Class,334.8
+784,No,0,Nut Free,2024-02-05,PA012,Tokyo,Perth,Business Class,578.4
+785,No,1,Nut Free,2024-01-09,PA012,Tokyo,Perth,First Class,406.0
+786,No,2,None,2024-06-26,PA011,Perth,Tokyo,First Class,437.0
+787,No,0,Egg Free,2024-08-08,PA008,Perth,New York,Economy,3245.0
+788,No,2,Vegetarian,2024-03-04,PA009,New York,Tokyo,Premium Economy,1440.0
+789,No,3,Vegan,2024-07-02,PA004,Perth,London,Business Class,417.6
+790,No,1,Dairy Free,2024-09-09,PA011,Perth,Tokyo,Premium Economy,592.5
+791,No,2,Dairy Free,2024-03-05,PA006,Tokyo,London,Business Class,682.8
+792,No,1,Egg Free,2024-09-30,PA011,Perth,Tokyo,First Class,676.0
+793,No,1,None,2024-03-24,PA006,Tokyo,London,First Class,418.0
+794,No,2,None,2024-12-04,PA007,New York,Perth,First Class,564.0
+795,No,0,Vegetarian,2024-07-28,PA001,London,New York,Economy,2670.0
+799,No,0,Dairy Free,2024-01-06,PA011,Perth,Tokyo,Economy,3420.0
+800,No,0,Vegetarian,2024-02-26,PA007,New York,Perth,Business Class,596.4
+803,No,0,Egg Free,2024-06-13,PA006,Tokyo,London,Economy,2475.0
+806,No,0,Dairy Free,2024-05-13,PA007,New York,Perth,Business Class,355.2
+810,No,3,Dairy Free,2024-12-09,PA006,Tokyo,London,Economy,1665.0
+811,No,0,Vegetarian,2024-07-07,PA005,London,Tokyo,First Class,225.0
+813,No,2,Vegetarian,2024-03-15,PA002,New York,London,Economy,2870.0
+817,No,1,None,2024-05-09,PA004,Perth,London,Business Class,693.6
+819,No,3,Vegan,2024-02-19,PA012,Tokyo,Perth,Premium Economy,897.5
+824,No,3,Nut Free,2024-07-16,PA009,New York,Tokyo,First Class,396.0
+825,No,0,Vegetarian,2024-07-25,PA010,Tokyo,New York,Business Class,835.1999999999998
+826,No,2,Nut Free,2024-10-10,PA001,London,New York,Premium Economy,1135.0
+827,No,0,Dairy Free,2024-01-10,PA005,London,Tokyo,Business Class,651.6
+828,No,0,Dairy Free,2024-04-01,PA005,London,Tokyo,Economy,1255.0
+830,No,2,Vegan,2024-08-10,PA004,Perth,London,Economy,2050.0
+832,No,2,Vegan,2024-10-14,PA001,London,New York,Economy,1510.0
+833,No,3,Dairy Free,2024-03-22,PA012,Tokyo,Perth,First Class,481.0
+834,No,3,None,2024-01-14,PA005,London,Tokyo,First Class,660.0
+835,No,2,Vegetarian,2024-09-26,PA004,Perth,London,First Class,258.0
+837,No,3,Dairy Free,2024-09-08,PA010,Tokyo,New York,Premium Economy,877.5
+838,No,0,Egg Free,2024-07-18,PA002,New York,London,Economy,2915.0
+841,No,0,Nut Free,2024-07-05,PA002,New York,London,First Class,677.0
+843,No,2,Nut Free,2024-11-01,PA011,Perth,Tokyo,Economy,1745.0
+844,No,2,None,2024-10-17,PA005,London,Tokyo,Business Class,708.0
+845,No,2,Egg Free,2024-03-03,PA006,Tokyo,London,Business Class,790.7999999999998
+848,No,2,Egg Free,2024-03-10,PA012,Tokyo,Perth,First Class,412.0
+850,No,0,None,2024-01-05,PA004,Perth,London,First Class,251.0
+852,No,3,Vegan,2024-11-28,PA009,New York,Tokyo,Premium Economy,1017.5
+855,No,1,Dairy Free,2024-11-08,PA007,New York,Perth,First Class,255.0
+856,No,0,Vegan,2024-01-07,PA002,New York,London,Economy,3215.0
+857,No,0,Nut Free,2024-10-30,PA006,Tokyo,London,Premium Economy,730.0
+858,No,3,Vegan,2024-05-14,PA003,London,Perth,Economy,2940.0
+859,No,0,Dairy Free,2024-12-26,PA006,Tokyo,London,Premium Economy,570.0
+860,No,3,None,2024-12-26,PA009,New York,Tokyo,Business Class,343.2
+861,No,1,None,2024-02-19,PA011,Perth,Tokyo,Business Class,558.0
+862,No,2,Vegan,2024-04-26,PA005,London,Tokyo,Economy,1645.0
+863,No,0,Vegan,2024-11-14,PA011,Perth,Tokyo,First Class,435.0
+864,No,2,None,2024-11-12,PA009,New York,Tokyo,Premium Economy,550.0
+865,No,0,Egg Free,2024-05-20,PA003,London,Perth,Business Class,399.6
+866,No,2,Egg Free,2024-02-24,PA007,New York,Perth,First Class,266.0
+872,No,0,Dairy Free,2024-07-24,PA010,Tokyo,New York,First Class,560.0
+873,No,1,Egg Free,2024-07-24,PA001,London,New York,Economy,1520.0
+874,No,1,Nut Free,2024-05-10,PA008,Perth,New York,First Class,572.0
+875,No,3,Dairy Free,2024-07-27,PA005,London,Tokyo,Premium Economy,1375.0
+876,No,3,Vegan,2024-03-23,PA005,London,Tokyo,Business Class,741.6
+878,No,1,Vegetarian,2024-07-12,PA002,New York,London,Business Class,795.6
+880,No,3,Vegan,2024-06-15,PA004,Perth,London,Business Class,433.2
+884,No,1,Dairy Free,2024-01-13,PA001,London,New York,Business Class,540.0
+886,No,2,None,2024-07-07,PA011,Perth,Tokyo,First Class,462.0
+887,No,0,Vegetarian,2024-10-15,PA010,Tokyo,New York,First Class,294.0
+888,No,0,Nut Free,2024-11-26,PA012,Tokyo,Perth,Business Class,459.6
+889,No,1,Vegetarian,2024-01-09,PA006,Tokyo,London,Premium Economy,640.0
+891,No,2,Vegetarian,2024-05-14,PA011,Perth,Tokyo,Business Class,411.6
+892,No,2,Nut Free,2024-12-23,PA009,New York,Tokyo,Business Class,474.0
+894,No,1,Vegetarian,2024-07-01,PA009,New York,Tokyo,Economy,3005.0
+898,No,2,Vegetarian,2024-07-27,PA004,Perth,London,First Class,217.0
+902,No,2,Vegetarian,2024-03-14,PA005,London,Tokyo,Economy,2250.0
+904,No,3,Egg Free,2024-11-17,PA001,London,New York,First Class,519.0
+907,No,2,Vegan,2024-01-09,PA011,Perth,Tokyo,First Class,692.0
+908,No,3,Nut Free,2024-08-22,PA011,Perth,Tokyo,Business Class,517.1999999999999
+911,No,1,Egg Free,2024-08-20,PA008,Perth,New York,Premium Economy,1292.5
+916,No,2,Vegetarian,2024-09-25,PA008,Perth,New York,Business Class,270.0
+918,No,1,Vegetarian,2024-04-30,PA010,Tokyo,New York,First Class,626.0
+920,No,0,None,2024-04-02,PA008,Perth,New York,First Class,634.0
+921,No,3,Vegan,2024-05-28,PA009,New York,Tokyo,First Class,564.0
+923,No,3,Vegan,2024-07-27,PA009,New York,Tokyo,Premium Economy,707.5
+924,No,2,None,2024-03-23,PA002,New York,London,Premium Economy,870.0
+926,No,0,Vegan,2024-12-01,PA010,Tokyo,New York,Business Class,524.4
+932,No,0,Vegetarian,2024-07-30,PA004,Perth,London,First Class,437.0
+933,No,0,Vegan,2024-04-01,PA011,Perth,Tokyo,Business Class,289.2
+934,No,3,None,2024-03-29,PA009,New York,Tokyo,First Class,550.0
+941,No,2,Dairy Free,2024-07-28,PA003,London,Perth,Business Class,328.8
+942,No,0,Nut Free,2024-05-17,PA005,London,Tokyo,Economy,3390.0
+944,No,2,Egg Free,2024-08-31,PA006,Tokyo,London,Premium Economy,1325.0
+950,No,2,Dairy Free,2024-01-30,PA002,New York,London,First Class,699.0
+953,No,1,Vegetarian,2024-03-25,PA009,New York,Tokyo,Business Class,313.2
+957,No,2,Nut Free,2024-02-13,PA005,London,Tokyo,First Class,278.0
+960,No,2,Dairy Free,2024-09-30,PA009,New York,Tokyo,Economy,1820.0
+962,No,0,Nut Free,2024-08-05,PA009,New York,Tokyo,Economy,2055.0
+963,No,2,Nut Free,2024-03-08,PA012,Tokyo,Perth,Economy,1360.0
+964,No,3,Egg Free,2024-04-23,PA003,London,Perth,Premium Economy,1342.5
+965,No,1,None,2024-01-18,PA010,Tokyo,New York,Economy,1710.0
+975,No,1,Nut Free,2024-05-19,PA010,Tokyo,New York,Economy,3180.0
+976,No,0,Vegan,2024-09-25,PA010,Tokyo,New York,First Class,476.0
+978,No,3,Vegetarian,2024-01-24,PA005,London,Tokyo,Economy,2935.0
+979,No,0,Vegan,2024-04-25,PA005,London,Tokyo,Economy,1335.0
+981,No,1,Dairy Free,2024-07-03,PA006,Tokyo,London,Premium Economy,887.5
+983,No,1,Nut Free,2024-03-18,PA006,Tokyo,London,First Class,335.0
+987,No,1,Vegetarian,2024-05-28,PA009,New York,Tokyo,Premium Economy,1122.5
+988,No,0,None,2024-03-02,PA008,Perth,New York,Premium Economy,1567.5
+989,No,0,None,2024-12-15,PA004,Perth,London,First Class,336.0
+990,No,2,Vegetarian,2024-08-29,PA004,Perth,London,Business Class,561.6
+991,No,0,Egg Free,2024-10-09,PA007,New York,Perth,First Class,327.0
+992,No,0,Vegan,2024-04-20,PA006,Tokyo,London,Premium Economy,507.5
+993,No,1,Nut Free,2024-11-05,PA008,Perth,New York,Premium Economy,620.0
+994,No,0,None,2024-07-27,PA006,Tokyo,London,Business Class,793.1999999999998
+995,No,3,Vegan,2024-06-27,PA004,Perth,London,Economy,1280.0
+997,No,3,Vegan,2024-11-20,PA009,New York,Tokyo,Business Class,613.1999999999999
+999,No,3,Dairy Free,2024-05-01,PA004,Perth,London,Economy,2500.0
+1001,No,1,Nut Free,2024-05-08,PA003,London,Perth,Premium Economy,832.5
+1002,No,1,Nut Free,2024-07-19,PA011,Perth,Tokyo,Economy,3105.0
+1006,No,0,None,2024-07-07,PA001,London,New York,Economy,2905.0
+1007,No,1,Vegetarian,2024-11-04,PA009,New York,Tokyo,Economy,1970.0
+1010,No,0,Nut Free,2024-03-10,PA012,Tokyo,Perth,Economy,1965.0
+1011,No,2,None,2024-10-20,PA009,New York,Tokyo,Economy,2210.0
+1012,No,2,Egg Free,2024-11-30,PA010,Tokyo,New York,Economy,3250.0
+1016,No,3,Dairy Free,2024-12-30,PA001,London,New York,First Class,487.0
+1018,No,0,Egg Free,2024-10-22,PA001,London,New York,Economy,2960.0
+1020,No,3,Nut Free,2024-03-27,PA004,Perth,London,Economy,2985.0
+1022,No,0,Egg Free,2024-09-17,PA009,New York,Tokyo,Business Class,400.8
+1023,No,1,Nut Free,2024-11-16,PA008,Perth,New York,First Class,536.0
+1024,No,2,Vegetarian,2024-11-23,PA001,London,New York,Economy,2595.0
+1026,No,2,Nut Free,2024-12-03,PA004,Perth,London,Premium Economy,802.5
+1032,No,1,Nut Free,2024-07-06,PA007,New York,Perth,Economy,3465.0
+1033,No,2,Vegan,2024-02-21,PA011,Perth,Tokyo,Economy,2505.0
+1037,No,1,Dairy Free,2024-05-22,PA008,Perth,New York,First Class,451.0
+1041,No,2,Vegetarian,2024-06-14,PA012,Tokyo,Perth,First Class,312.0
+1044,No,2,Dairy Free,2024-10-06,PA012,Tokyo,Perth,Premium Economy,510.0
+1047,No,3,Nut Free,2024-10-10,PA006,Tokyo,London,Premium Economy,780.0
+1050,No,3,Vegan,2024-10-30,PA001,London,New York,Premium Economy,1622.5
+1051,No,1,Dairy Free,2024-08-12,PA008,Perth,New York,Premium Economy,792.5
+1053,No,0,Vegetarian,2024-08-03,PA010,Tokyo,New York,Business Class,714.0
+1054,No,3,Vegetarian,2024-09-21,PA011,Perth,Tokyo,Economy,1195.0
+1055,No,0,Vegetarian,2024-08-19,PA009,New York,Tokyo,Economy,2725.0
+1057,No,1,Vegetarian,2024-07-20,PA011,Perth,Tokyo,Business Class,684.0
+1059,No,1,Dairy Free,2024-07-03,PA007,New York,Perth,Business Class,278.4
+1060,No,1,None,2024-06-08,PA002,New York,London,Business Class,283.2
+1062,No,0,Vegan,2024-08-02,PA008,Perth,New York,Premium Economy,1025.0
+1063,No,3,Dairy Free,2024-05-17,PA009,New York,Tokyo,First Class,264.0
+1066,No,0,Vegan,2024-06-07,PA007,New York,Perth,Business Class,470.4
+1068,No,2,Vegetarian,2024-04-02,PA007,New York,Perth,First Class,553.0
+1071,No,0,Egg Free,2024-12-21,PA004,Perth,London,Business Class,244.8
+1072,No,2,Vegetarian,2024-06-05,PA010,Tokyo,New York,Premium Economy,1200.0
+1073,No,1,Vegetarian,2024-07-28,PA003,London,Perth,Premium Economy,730.0
+1074,No,3,Vegan,2024-12-15,PA012,Tokyo,Perth,Economy,2975.0
+1077,No,3,Vegan,2024-07-08,PA005,London,Tokyo,Business Class,619.1999999999999
+1078,No,3,Vegan,2024-12-09,PA008,Perth,New York,First Class,605.0
+1079,No,1,Vegetarian,2024-02-22,PA011,Perth,Tokyo,First Class,632.0
+1081,No,1,Egg Free,2024-01-18,PA004,Perth,London,First Class,232.0
+1082,No,2,Egg Free,2024-07-21,PA012,Tokyo,Perth,First Class,361.0
+1084,No,3,Egg Free,2024-04-19,PA011,Perth,Tokyo,Economy,1045.0
+1085,No,1,None,2024-11-02,PA011,Perth,Tokyo,Business Class,744.0
+1089,No,1,None,2024-08-07,PA010,Tokyo,New York,Premium Economy,1150.0
+1093,No,1,Dairy Free,2024-02-17,PA002,New York,London,Business Class,692.4
+1097,No,0,Dairy Free,2024-09-30,PA008,Perth,New York,Business Class,417.6
+1100,No,0,Vegetarian,2024-12-05,PA010,Tokyo,New York,First Class,672.0
+1103,No,2,Nut Free,2024-09-06,PA007,New York,Perth,Economy,3380.0
+1104,No,3,Egg Free,2024-02-17,PA002,New York,London,First Class,277.0
+1105,No,1,None,2024-03-07,PA003,London,Perth,Business Class,596.4
+1108,No,0,Dairy Free,2024-04-24,PA001,London,New York,Business Class,382.8
+1109,No,1,Vegan,2024-07-30,PA002,New York,London,Premium Economy,1527.5
+1110,No,0,None,2024-07-30,PA006,Tokyo,London,Premium Economy,1692.5
+1115,No,3,Egg Free,2024-07-18,PA003,London,Perth,Business Class,786.0
+1117,No,0,Dairy Free,2024-11-16,PA011,Perth,Tokyo,Business Class,691.1999999999999
+1118,No,3,Vegetarian,2024-05-28,PA008,Perth,New York,First Class,529.0
+1119,No,3,Dairy Free,2024-12-20,PA005,London,Tokyo,Premium Economy,922.5
+1123,No,3,None,2024-02-22,PA001,London,New York,Premium Economy,680.0
+1124,No,0,Nut Free,2024-01-04,PA010,Tokyo,New York,Business Class,577.1999999999999
+1126,No,2,Vegan,2024-08-23,PA003,London,Perth,First Class,416.0
+1131,No,1,Egg Free,2024-04-13,PA003,London,Perth,Premium Economy,577.5
+1132,No,0,None,2024-02-28,PA011,Perth,Tokyo,Business Class,400.8
+1135,No,1,Egg Free,2024-07-13,PA011,Perth,Tokyo,Premium Economy,1615.0
+1138,No,1,Egg Free,2024-03-04,PA007,New York,Perth,Premium Economy,1665.0
+1140,No,1,Dairy Free,2024-04-19,PA012,Tokyo,Perth,Premium Economy,1650.0
+1141,No,3,Dairy Free,2024-03-15,PA012,Tokyo,Perth,First Class,368.0
+1142,No,0,Vegetarian,2024-08-14,PA007,New York,Perth,Economy,1110.0
+1143,No,1,Dairy Free,2024-06-03,PA001,London,New York,Economy,3140.0
+1144,No,1,None,2024-10-22,PA012,Tokyo,Perth,Business Class,810.0
+1146,No,2,Nut Free,2024-02-04,PA005,London,Tokyo,Business Class,415.2
+1147,No,1,Dairy Free,2024-08-09,PA010,Tokyo,New York,Business Class,242.4
+1148,No,2,Vegan,2024-04-12,PA010,Tokyo,New York,First Class,670.0
+1149,No,3,Vegan,2024-08-11,PA006,Tokyo,London,Premium Economy,1127.5
+1150,No,0,Dairy Free,2024-04-24,PA010,Tokyo,New York,Premium Economy,1467.5
+1151,No,2,Nut Free,2024-09-26,PA005,London,Tokyo,Premium Economy,945.0
+1153,No,0,Dairy Free,2024-01-19,PA006,Tokyo,London,Premium Economy,710.0
+1154,No,1,Nut Free,2024-09-07,PA002,New York,London,First Class,571.0
+1155,No,1,Vegan,2024-06-04,PA010,Tokyo,New York,Business Class,603.6
+1156,No,1,Egg Free,2024-12-10,PA006,Tokyo,London,First Class,358.0
+1157,No,0,Nut Free,2024-06-22,PA011,Perth,Tokyo,Economy,2485.0
+1158,No,3,None,2024-10-12,PA003,London,Perth,First Class,398.0
+1159,No,3,Vegan,2024-05-01,PA004,Perth,London,Economy,2635.0
+1162,No,1,Nut Free,2024-06-25,PA012,Tokyo,Perth,Business Class,475.2
+1165,No,0,None,2024-10-03,PA012,Tokyo,Perth,Economy,2055.0
+1168,No,0,Vegetarian,2024-10-08,PA006,Tokyo,London,First Class,654.0
+1169,No,0,Vegan,2024-04-15,PA008,Perth,New York,Business Class,520.8
+1170,No,2,Nut Free,2024-09-08,PA008,Perth,New York,First Class,611.0
+1172,No,0,None,2024-07-26,PA005,London,Tokyo,Premium Economy,1507.5
+1176,No,0,Nut Free,2024-08-10,PA003,London,Perth,Business Class,632.4
+1177,No,2,Egg Free,2024-05-31,PA009,New York,Tokyo,First Class,447.0
+1178,No,3,Vegetarian,2024-08-01,PA004,Perth,London,First Class,499.0
+1179,No,2,Vegan,2024-02-07,PA008,Perth,New York,Premium Economy,632.5
+1181,No,0,Vegan,2024-01-13,PA010,Tokyo,New York,Economy,2930.0
+1183,No,2,Vegan,2024-02-22,PA009,New York,Tokyo,Business Class,655.1999999999999
+1184,No,2,None,2024-02-17,PA007,New York,Perth,Economy,2770.0
+1185,No,2,None,2024-10-22,PA004,Perth,London,Economy,2390.0
+1186,No,3,Egg Free,2024-10-18,PA002,New York,London,First Class,532.0
+1192,No,3,Nut Free,2024-07-22,PA012,Tokyo,Perth,Business Class,411.6
+1193,No,2,Vegan,2024-05-22,PA012,Tokyo,Perth,First Class,223.0
+1195,No,2,None,2024-08-17,PA003,London,Perth,Economy,1570.0
+1197,No,1,Vegan,2024-02-17,PA012,Tokyo,Perth,Economy,1845.0
+1199,No,1,Dairy Free,2024-12-10,PA005,London,Tokyo,Economy,1510.0
+1200,No,1,None,2024-11-08,PA003,London,Perth,First Class,698.0
+1201,No,1,None,2024-03-31,PA002,New York,London,Premium Economy,1397.5
+1203,No,1,Egg Free,2024-08-25,PA002,New York,London,First Class,576.0
+1208,No,3,Dairy Free,2024-05-03,PA009,New York,Tokyo,First Class,437.0
+1209,No,0,None,2024-11-12,PA005,London,Tokyo,Economy,2600.0
+1210,No,1,Egg Free,2024-01-31,PA002,New York,London,First Class,328.0
+1211,No,1,None,2024-01-22,PA005,London,Tokyo,Business Class,376.8
+1214,No,0,None,2024-03-07,PA001,London,New York,Premium Economy,1417.5
+1215,No,1,None,2024-07-10,PA007,New York,Perth,Economy,1695.0
+1217,No,2,Dairy Free,2024-05-19,PA006,Tokyo,London,First Class,304.0
+1218,No,2,Vegan,2024-11-25,PA009,New York,Tokyo,Business Class,732.0
+1219,No,3,None,2024-07-30,PA005,London,Tokyo,Premium Economy,877.5
+1223,No,2,Egg Free,2024-04-05,PA002,New York,London,Business Class,820.7999999999998
+1225,No,2,Vegan,2024-10-30,PA003,London,Perth,Economy,3145.0
+1226,No,3,Dairy Free,2024-04-06,PA009,New York,Tokyo,Premium Economy,985.0
+1228,No,3,Vegetarian,2024-11-13,PA001,London,New York,Business Class,438.0
+1230,No,1,Egg Free,2024-01-29,PA007,New York,Perth,First Class,502.0
+1232,No,2,Egg Free,2024-03-05,PA006,Tokyo,London,Economy,3315.0
+1234,No,3,Egg Free,2024-01-16,PA009,New York,Tokyo,First Class,497.0
+1235,No,2,Dairy Free,2024-02-05,PA006,Tokyo,London,Economy,1950.0
+1236,No,0,None,2024-10-19,PA010,Tokyo,New York,Business Class,835.1999999999998
+1237,No,1,Nut Free,2024-08-12,PA006,Tokyo,London,First Class,229.0
+1239,No,2,Dairy Free,2024-01-22,PA007,New York,Perth,First Class,392.0
+1241,No,0,Vegetarian,2024-04-21,PA006,Tokyo,London,Business Class,736.7999999999998
+1242,No,0,Egg Free,2024-03-16,PA010,Tokyo,New York,Premium Economy,790.0
+1243,No,3,Nut Free,2024-04-21,PA006,Tokyo,London,Economy,3185.0
+1244,No,1,Nut Free,2024-02-22,PA006,Tokyo,London,Business Class,537.6
+1245,No,1,Vegan,2024-08-19,PA005,London,Tokyo,Economy,1905.0
+1246,No,0,Vegan,2024-02-27,PA002,New York,London,First Class,688.0
+1247,No,3,Vegetarian,2024-05-20,PA006,Tokyo,London,First Class,445.0
+1248,No,1,Egg Free,2024-10-22,PA001,London,New York,Premium Economy,1505.0
+1249,No,1,Vegan,2024-04-08,PA011,Perth,Tokyo,Economy,2285.0
+1250,No,1,Dairy Free,2024-06-15,PA008,Perth,New York,First Class,385.0
+1253,No,3,Vegetarian,2024-05-14,PA007,New York,Perth,Premium Economy,922.5
+1254,No,3,Egg Free,2024-10-24,PA011,Perth,Tokyo,Business Class,702.0
+1256,No,3,None,2024-05-07,PA012,Tokyo,Perth,Business Class,730.7999999999998
+1257,No,3,Vegan,2024-01-18,PA003,London,Perth,Business Class,813.6
+1260,No,1,Dairy Free,2024-09-23,PA003,London,Perth,Economy,1890.0
+1261,No,2,None,2024-08-17,PA011,Perth,Tokyo,Economy,3220.0
+1262,No,3,Egg Free,2024-02-15,PA002,New York,London,Economy,2965.0
+1263,No,2,Dairy Free,2024-10-01,PA010,Tokyo,New York,Business Class,349.2
+1266,No,0,Vegan,2024-11-20,PA007,New York,Perth,Business Class,651.6
+1268,No,0,Vegan,2024-12-05,PA004,Perth,London,Economy,1335.0
+1273,No,3,Nut Free,2024-01-07,PA001,London,New York,Business Class,662.4
+1274,No,0,Vegan,2024-09-25,PA009,New York,Tokyo,Premium Economy,1140.0
+1276,No,2,Vegan,2024-01-19,PA006,Tokyo,London,First Class,392.0
+1280,No,3,Vegetarian,2024-08-28,PA011,Perth,Tokyo,Business Class,428.4
+1281,No,1,Vegan,2024-12-14,PA001,London,New York,Premium Economy,990.0
+1284,No,0,None,2024-10-19,PA006,Tokyo,London,Premium Economy,962.5
+1286,No,3,Vegan,2024-02-16,PA006,Tokyo,London,Business Class,402.0
+1287,No,2,None,2024-01-07,PA011,Perth,Tokyo,First Class,368.0
+1289,No,3,Vegetarian,2024-08-27,PA005,London,Tokyo,First Class,516.0
+1291,No,1,Vegetarian,2024-03-27,PA010,Tokyo,New York,First Class,498.0
+1293,No,0,Nut Free,2024-06-14,PA003,London,Perth,Economy,1405.0
+1295,No,3,Nut Free,2024-08-26,PA001,London,New York,First Class,571.0
+1296,No,3,None,2024-02-17,PA003,London,Perth,Business Class,714.0
+1297,No,2,Dairy Free,2024-07-10,PA004,Perth,London,Economy,2355.0
+1300,No,2,Nut Free,2024-09-05,PA003,London,Perth,Business Class,794.4
+1302,No,3,Dairy Free,2024-07-20,PA003,London,Perth,First Class,582.0
+1303,No,2,Egg Free,2024-06-23,PA010,Tokyo,New York,Premium Economy,1570.0
+1304,No,1,None,2024-10-26,PA002,New York,London,Premium Economy,920.0
+1305,No,0,Vegetarian,2024-01-21,PA005,London,Tokyo,First Class,687.0
+1309,No,3,Egg Free,2024-11-23,PA007,New York,Perth,First Class,490.0
+1310,No,0,Vegan,2024-09-29,PA009,New York,Tokyo,Economy,2370.0
+1312,No,3,Nut Free,2024-05-27,PA007,New York,Perth,Premium Economy,1252.5
+1314,No,3,Vegan,2024-03-09,PA003,London,Perth,Premium Economy,1362.5
+1317,No,3,Dairy Free,2024-12-15,PA003,London,Perth,Business Class,644.4
+1321,No,3,None,2024-02-12,PA001,London,New York,Business Class,295.2
+1326,No,2,Vegetarian,2024-06-24,PA010,Tokyo,New York,First Class,438.0
+1327,No,2,Vegetarian,2024-06-22,PA008,Perth,New York,Economy,1785.0
+1328,No,0,Nut Free,2024-03-27,PA006,Tokyo,London,Economy,2755.0
+1334,No,0,Vegetarian,2024-05-02,PA003,London,Perth,Business Class,640.8
+1338,No,0,Nut Free,2024-08-23,PA012,Tokyo,Perth,Premium Economy,557.5
+1343,No,3,None,2024-03-31,PA002,New York,London,Premium Economy,542.5
+1347,No,0,Vegetarian,2024-11-10,PA009,New York,Tokyo,First Class,293.0
+1349,No,2,None,2024-07-31,PA006,Tokyo,London,Business Class,358.8
+1351,No,1,Egg Free,2024-03-02,PA011,Perth,Tokyo,Business Class,711.6
+1352,No,3,None,2024-02-03,PA012,Tokyo,Perth,Premium Economy,1315.0
+1353,No,3,Egg Free,2024-06-30,PA011,Perth,Tokyo,First Class,346.0
+1356,No,0,Egg Free,2024-02-12,PA003,London,Perth,Business Class,367.2
+1357,No,0,Vegan,2024-07-17,PA006,Tokyo,London,Business Class,612.0
+1363,No,2,Egg Free,2024-09-23,PA005,London,Tokyo,Business Class,367.2
+1364,No,2,Vegetarian,2024-09-10,PA011,Perth,Tokyo,Business Class,624.0
+1366,No,3,Vegetarian,2024-10-12,PA003,London,Perth,First Class,666.0
+1367,No,3,Dairy Free,2024-01-31,PA002,New York,London,Business Class,343.2
+1369,No,1,Vegan,2024-05-25,PA003,London,Perth,Economy,2395.0
+1370,No,0,None,2024-06-20,PA005,London,Tokyo,Economy,2130.0
+1372,No,0,Nut Free,2024-09-25,PA010,Tokyo,New York,Economy,2200.0
+1374,No,2,Dairy Free,2024-09-11,PA003,London,Perth,Economy,3245.0
+1376,No,1,Vegan,2024-07-28,PA002,New York,London,First Class,641.0
+1379,No,2,Dairy Free,2024-03-05,PA011,Perth,Tokyo,Business Class,342.0
+1380,No,3,None,2024-05-18,PA012,Tokyo,Perth,Business Class,758.4
+1387,No,2,Nut Free,2024-12-27,PA011,Perth,Tokyo,Business Class,445.2
+1389,No,2,Vegan,2024-01-20,PA002,New York,London,Economy,2270.0
+1394,No,0,Vegan,2024-10-03,PA005,London,Tokyo,Economy,1605.0
+1397,No,1,Vegetarian,2024-01-03,PA006,Tokyo,London,Economy,3045.0
+1398,No,1,Vegan,2024-03-07,PA005,London,Tokyo,First Class,392.0
+1401,No,1,Nut Free,2024-05-01,PA009,New York,Tokyo,Premium Economy,1605.0
+1405,No,2,Nut Free,2024-12-18,PA008,Perth,New York,Economy,2195.0
+1406,No,3,Egg Free,2024-07-05,PA002,New York,London,Economy,2600.0
+1407,No,2,None,2024-10-05,PA011,Perth,Tokyo,First Class,583.0
+1412,No,0,Egg Free,2024-03-09,PA006,Tokyo,London,Business Class,426.0
+1413,No,3,Vegan,2024-10-25,PA011,Perth,Tokyo,First Class,432.0
+1414,No,3,Dairy Free,2024-03-27,PA005,London,Tokyo,Business Class,655.1999999999999
+1421,No,2,Vegan,2024-04-18,PA005,London,Tokyo,Business Class,499.2
+1422,No,1,Nut Free,2024-05-12,PA003,London,Perth,Premium Economy,1132.5
+1423,No,1,Vegetarian,2024-10-04,PA012,Tokyo,Perth,Business Class,750.0
+1426,No,0,None,2024-03-03,PA006,Tokyo,London,Business Class,382.8
+1428,No,0,Vegetarian,2024-06-05,PA001,London,New York,Premium Economy,995.0
+1431,No,1,None,2024-05-26,PA010,Tokyo,New York,Business Class,736.7999999999998
+1432,No,2,Vegan,2024-06-02,PA002,New York,London,First Class,360.0
+1434,No,0,None,2024-01-31,PA005,London,Tokyo,Economy,3400.0
+1436,No,2,Vegan,2024-09-28,PA007,New York,Perth,Economy,2485.0
+1437,No,0,Egg Free,2024-07-22,PA001,London,New York,First Class,650.0
+1438,No,1,Vegetarian,2024-10-31,PA012,Tokyo,Perth,Business Class,757.1999999999998
+1441,No,0,None,2024-07-04,PA012,Tokyo,Perth,Economy,2030.0
+1442,No,1,Dairy Free,2024-07-06,PA010,Tokyo,New York,Business Class,310.8
+1447,No,1,Vegetarian,2024-12-29,PA002,New York,London,Economy,2940.0
+1448,No,2,None,2024-09-02,PA004,Perth,London,Premium Economy,1605.0
+1449,No,1,Nut Free,2024-05-24,PA008,Perth,New York,Business Class,585.6
+1451,No,2,Nut Free,2024-03-26,PA010,Tokyo,New York,Premium Economy,1330.0
+1453,No,1,Vegetarian,2024-04-16,PA001,London,New York,Premium Economy,965.0
+1454,No,2,Vegan,2024-07-28,PA007,New York,Perth,Premium Economy,540.0
+1455,No,2,Egg Free,2024-09-01,PA003,London,Perth,Economy,2285.0
+1456,No,3,Vegan,2024-11-18,PA012,Tokyo,Perth,First Class,280.0
+1458,No,2,Dairy Free,2024-07-03,PA007,New York,Perth,Economy,2190.0
+1459,No,1,Vegetarian,2024-10-30,PA005,London,Tokyo,Business Class,708.0
+1462,No,3,Nut Free,2024-06-30,PA011,Perth,Tokyo,Economy,3465.0
+1463,No,3,Nut Free,2024-07-04,PA011,Perth,Tokyo,First Class,317.0
+1465,No,0,Vegetarian,2024-10-14,PA009,New York,Tokyo,Economy,3325.0
+1466,No,1,Vegan,2024-09-11,PA004,Perth,London,Premium Economy,1605.0
+1467,No,2,Vegan,2024-09-26,PA003,London,Perth,First Class,651.0
+1468,No,0,Egg Free,2024-12-08,PA006,Tokyo,London,Premium Economy,732.5
+1471,No,2,None,2024-07-11,PA008,Perth,New York,Premium Economy,1295.0
+1472,No,1,Egg Free,2024-12-25,PA008,Perth,New York,First Class,238.0
+1473,No,0,None,2024-12-02,PA006,Tokyo,London,Business Class,279.6
+1474,No,1,Dairy Free,2024-01-08,PA009,New York,Tokyo,Premium Economy,867.5
+1475,No,0,Dairy Free,2024-09-22,PA002,New York,London,Premium Economy,737.5
+1476,No,2,Egg Free,2024-02-28,PA008,Perth,New York,Economy,1170.0
+1477,No,2,None,2024-10-30,PA011,Perth,Tokyo,Premium Economy,617.5
+1479,No,0,Vegan,2024-07-30,PA008,Perth,New York,Premium Economy,1560.0
+1480,No,2,Nut Free,2024-12-17,PA004,Perth,London,Business Class,244.8
+1482,No,3,None,2024-02-25,PA005,London,Tokyo,First Class,287.0
+1484,No,2,Nut Free,2024-12-16,PA005,London,Tokyo,Premium Economy,820.0
+1486,No,2,Egg Free,2024-11-09,PA002,New York,London,Premium Economy,1012.5
+1488,No,0,Dairy Free,2024-11-05,PA010,Tokyo,New York,Business Class,544.8
+1489,No,2,Egg Free,2024-08-13,PA011,Perth,Tokyo,First Class,577.0
+1490,No,3,None,2024-06-30,PA007,New York,Perth,Business Class,817.1999999999998
+1494,No,3,Egg Free,2024-06-08,PA001,London,New York,Economy,2045.0
+1496,No,2,Vegetarian,2024-07-14,PA001,London,New York,Business Class,704.4
+1497,No,1,Vegan,2024-10-27,PA010,Tokyo,New York,Business Class,789.6
+1501,No,0,Vegetarian,2024-03-29,PA005,London,Tokyo,Business Class,453.6
+1505,No,2,None,2024-12-28,PA004,Perth,London,Business Class,693.6
+1506,No,3,None,2024-01-08,PA009,New York,Tokyo,Business Class,290.4
+1507,No,0,None,2024-12-25,PA007,New York,Perth,Premium Economy,545.0
+1511,No,0,Nut Free,2024-04-02,PA007,New York,Perth,Business Class,330.0
+1512,No,2,None,2024-07-17,PA003,London,Perth,Economy,2020.0
+1515,No,0,Dairy Free,2024-06-30,PA003,London,Perth,First Class,491.0
+1517,No,2,Vegetarian,2024-04-30,PA012,Tokyo,Perth,Business Class,268.8
+1518,No,2,Dairy Free,2024-08-19,PA001,London,New York,Business Class,380.4
+1520,No,1,None,2024-12-10,PA003,London,Perth,First Class,580.0
+1521,No,3,Vegan,2024-08-25,PA006,Tokyo,London,Economy,1460.0
+1522,No,1,Vegetarian,2024-12-13,PA012,Tokyo,Perth,Economy,2165.0
+1526,No,1,Nut Free,2024-09-18,PA002,New York,London,Premium Economy,1115.0
+1527,No,1,Vegan,2024-05-14,PA011,Perth,Tokyo,First Class,670.0
+1528,No,2,Dairy Free,2024-01-23,PA001,London,New York,Premium Economy,1687.5
+1530,No,3,Vegetarian,2024-07-17,PA009,New York,Tokyo,Premium Economy,1502.5
+1531,No,1,Nut Free,2024-09-18,PA009,New York,Tokyo,Premium Economy,772.5
+1533,No,1,None,2024-03-12,PA006,Tokyo,London,Business Class,736.7999999999998
+1534,No,0,Dairy Free,2024-01-12,PA004,Perth,London,First Class,626.0
+1538,No,0,Vegetarian,2024-08-30,PA004,Perth,London,Premium Economy,1747.5
+1541,No,0,Egg Free,2024-06-15,PA010,Tokyo,New York,Economy,3125.0
+1543,No,2,Dairy Free,2024-05-23,PA007,New York,Perth,First Class,509.0
+1545,No,2,Nut Free,2024-12-21,PA012,Tokyo,Perth,Economy,1890.0
+1549,No,0,Vegetarian,2024-06-17,PA005,London,Tokyo,Business Class,696.0
+1551,No,2,Vegan,2024-04-13,PA004,Perth,London,Premium Economy,592.5
+1552,No,1,Vegan,2024-11-18,PA007,New York,Perth,Business Class,823.1999999999998
+1555,No,0,Dairy Free,2024-04-11,PA006,Tokyo,London,Economy,1345.0
+1557,No,0,Vegetarian,2024-01-09,PA008,Perth,New York,First Class,554.0
+1560,No,0,Dairy Free,2024-09-15,PA011,Perth,Tokyo,Economy,3015.0
+1563,No,3,None,2024-11-28,PA010,Tokyo,New York,Economy,1355.0
+1566,No,1,Vegan,2024-07-01,PA011,Perth,Tokyo,Business Class,691.1999999999999
+1567,No,1,Nut Free,2024-08-19,PA005,London,Tokyo,Business Class,812.4
+1572,No,1,Vegan,2024-12-23,PA006,Tokyo,London,Economy,2055.0
+1574,No,0,Dairy Free,2024-04-12,PA004,Perth,London,Premium Economy,1597.5
+1576,No,0,Nut Free,2024-06-27,PA007,New York,Perth,Premium Economy,1180.0
+1578,No,2,Vegetarian,2024-09-28,PA010,Tokyo,New York,First Class,309.0
+1581,No,2,None,2024-11-22,PA005,London,Tokyo,Premium Economy,1512.5
+1583,No,1,None,2024-09-23,PA003,London,Perth,Premium Economy,615.0
+1585,No,1,Vegetarian,2024-11-09,PA005,London,Tokyo,First Class,403.0
+1591,No,3,Vegetarian,2024-08-18,PA012,Tokyo,Perth,Economy,1640.0
+1594,No,1,Dairy Free,2024-04-25,PA004,Perth,London,Economy,2000.0
+1595,No,1,Vegan,2024-12-23,PA009,New York,Tokyo,Business Class,388.8
+1597,No,1,Egg Free,2024-05-05,PA012,Tokyo,Perth,First Class,487.0
+1598,No,0,Nut Free,2024-12-21,PA004,Perth,London,Economy,2905.0
+1599,No,0,Dairy Free,2024-10-08,PA008,Perth,New York,Premium Economy,545.0
+1602,No,0,Vegetarian,2024-09-22,PA001,London,New York,Premium Economy,1427.5
+1603,No,3,Vegan,2024-12-15,PA012,Tokyo,Perth,Economy,3040.0
+1605,No,0,Nut Free,2024-06-01,PA001,London,New York,Business Class,651.6
+1606,No,0,None,2024-12-07,PA010,Tokyo,New York,Business Class,361.2
+1608,No,2,Dairy Free,2024-05-26,PA011,Perth,Tokyo,First Class,473.0
+1609,No,3,Vegetarian,2024-11-28,PA006,Tokyo,London,Business Class,795.6
+1613,No,0,None,2024-03-14,PA002,New York,London,Economy,2705.0
+1615,No,3,Vegan,2024-01-30,PA004,Perth,London,Economy,3370.0
+1620,No,0,None,2024-10-09,PA010,Tokyo,New York,Business Class,320.4
+1622,No,0,Egg Free,2024-12-18,PA004,Perth,London,First Class,622.0
+1623,No,0,Nut Free,2024-10-24,PA003,London,Perth,Premium Economy,1672.5
+1626,No,3,Egg Free,2024-01-06,PA012,Tokyo,Perth,Economy,1630.0
+1627,No,3,Egg Free,2024-11-07,PA012,Tokyo,Perth,Economy,2040.0
+1628,No,0,None,2024-04-18,PA006,Tokyo,London,Premium Economy,1365.0
+1629,No,1,Egg Free,2024-11-01,PA001,London,New York,Economy,1585.0
+1632,No,3,Vegetarian,2024-06-11,PA009,New York,Tokyo,Business Class,374.4
+1636,No,3,Nut Free,2024-01-22,PA012,Tokyo,Perth,Economy,1910.0
+1637,No,0,Dairy Free,2024-11-06,PA001,London,New York,Premium Economy,1200.0
+1641,No,2,Dairy Free,2024-03-18,PA007,New York,Perth,Business Class,763.1999999999998
+1642,No,0,Vegetarian,2024-09-23,PA008,Perth,New York,Premium Economy,882.5
+1644,No,3,None,2024-08-10,PA007,New York,Perth,Premium Economy,1252.5
+1645,No,0,Vegan,2024-06-15,PA011,Perth,Tokyo,First Class,449.0
+1651,No,2,None,2024-09-02,PA005,London,Tokyo,Economy,1745.0
+1652,No,0,Nut Free,2024-08-27,PA004,Perth,London,Economy,1405.0
+1654,No,0,Vegetarian,2024-01-25,PA010,Tokyo,New York,Economy,1080.0
+1656,No,2,Egg Free,2024-08-26,PA005,London,Tokyo,Business Class,740.4
+1661,No,0,Nut Free,2024-07-26,PA008,Perth,New York,Economy,2280.0
+1663,No,3,Nut Free,2024-06-16,PA001,London,New York,Premium Economy,1380.0
+1666,No,2,Nut Free,2024-05-09,PA011,Perth,Tokyo,Business Class,430.8
+1667,No,3,Vegetarian,2024-04-08,PA001,London,New York,First Class,530.0
+1668,No,2,Egg Free,2024-06-03,PA003,London,Perth,Premium Economy,1252.5
+1670,No,2,Vegan,2024-08-28,PA012,Tokyo,Perth,Economy,3150.0
+1671,No,1,Dairy Free,2024-09-01,PA009,New York,Tokyo,First Class,533.0
+1672,No,3,Dairy Free,2024-08-22,PA006,Tokyo,London,Premium Economy,1405.0
+1673,No,2,Vegetarian,2024-08-16,PA002,New York,London,Premium Economy,1160.0
+1674,No,3,Vegetarian,2024-02-18,PA008,Perth,New York,First Class,300.0
+1676,No,1,Dairy Free,2024-05-31,PA004,Perth,London,First Class,676.0
+1678,No,0,Nut Free,2024-05-16,PA011,Perth,Tokyo,Economy,2565.0
+1680,No,1,Dairy Free,2024-05-22,PA012,Tokyo,Perth,Premium Economy,1605.0
+1681,No,3,None,2024-02-17,PA001,London,New York,First Class,683.0
+1682,No,2,Vegan,2024-03-17,PA001,London,New York,Premium Economy,990.0
+1683,No,1,Nut Free,2024-12-15,PA009,New York,Tokyo,Premium Economy,590.0
+1684,No,2,None,2024-04-30,PA011,Perth,Tokyo,Economy,2105.0
+1685,No,3,Vegetarian,2024-02-29,PA003,London,Perth,Business Class,489.6
+1690,No,3,Vegan,2024-07-14,PA008,Perth,New York,First Class,390.0
+1691,No,1,Egg Free,2024-07-22,PA006,Tokyo,London,Business Class,445.2
+1694,No,1,Nut Free,2024-09-13,PA003,London,Perth,Premium Economy,1562.5
+1695,No,3,Vegetarian,2024-12-26,PA004,Perth,London,Premium Economy,1522.5
+1696,No,2,Dairy Free,2024-05-10,PA012,Tokyo,Perth,Economy,2030.0
+1697,No,0,Vegan,2024-02-21,PA007,New York,Perth,Premium Economy,1247.5
+1698,No,2,Vegetarian,2024-05-12,PA001,London,New York,Business Class,786.0
+1699,No,1,Vegetarian,2024-11-29,PA009,New York,Tokyo,Premium Economy,1607.5
+1700,No,0,Nut Free,2024-12-13,PA003,London,Perth,First Class,588.0
+1701,No,3,Vegan,2024-03-19,PA001,London,New York,Economy,1835.0
+1704,No,2,Nut Free,2024-11-29,PA010,Tokyo,New York,First Class,584.0
+1705,No,0,Vegetarian,2024-09-03,PA009,New York,Tokyo,Business Class,382.8
+1710,No,1,None,2024-12-21,PA002,New York,London,First Class,476.0
+1715,No,1,Egg Free,2024-08-07,PA010,Tokyo,New York,Business Class,428.4
+1716,No,2,None,2024-01-03,PA011,Perth,Tokyo,Premium Economy,1075.0
+1717,No,3,Vegan,2024-11-27,PA002,New York,London,Economy,1675.0
+1718,No,1,None,2024-02-24,PA007,New York,Perth,Business Class,362.4
+1719,No,3,None,2024-12-12,PA008,Perth,New York,Premium Economy,1175.0
+1721,No,1,Nut Free,2024-07-21,PA012,Tokyo,Perth,First Class,346.0
+1726,No,0,Dairy Free,2024-09-05,PA007,New York,Perth,Premium Economy,1135.0
+1727,No,2,Dairy Free,2024-04-25,PA008,Perth,New York,First Class,694.0
+1728,No,1,Dairy Free,2024-08-03,PA003,London,Perth,Business Class,422.4
+1729,No,3,Egg Free,2024-03-05,PA012,Tokyo,Perth,First Class,429.0
+1731,No,1,Vegetarian,2024-12-23,PA010,Tokyo,New York,Economy,1130.0
+1738,No,1,Nut Free,2024-06-12,PA009,New York,Tokyo,Premium Economy,1457.5
+1742,No,1,Dairy Free,2024-10-14,PA009,New York,Tokyo,Economy,1435.0
+1746,No,0,Vegan,2024-04-12,PA004,Perth,London,Premium Economy,925.0
+1748,No,1,Vegan,2024-10-18,PA008,Perth,New York,Economy,3025.0
+1750,No,3,Vegetarian,2024-12-08,PA002,New York,London,First Class,220.0
+1752,No,0,Vegan,2024-10-12,PA008,Perth,New York,Economy,2620.0
+1756,No,2,Dairy Free,2024-10-23,PA003,London,Perth,Premium Economy,1202.5
+1757,No,3,Vegan,2024-03-18,PA003,London,Perth,Premium Economy,547.5
+1758,No,3,None,2024-12-17,PA008,Perth,New York,Premium Economy,617.5
+1759,No,3,Nut Free,2024-05-16,PA001,London,New York,Business Class,542.4
+1761,No,0,Vegetarian,2024-09-17,PA012,Tokyo,Perth,Business Class,631.1999999999999
+1762,No,3,Nut Free,2024-06-08,PA003,London,Perth,Business Class,241.2
+1764,No,1,Vegetarian,2024-02-24,PA002,New York,London,First Class,276.0
+1765,No,2,Egg Free,2024-09-13,PA002,New York,London,Business Class,586.8
+1766,No,1,Vegan,2024-11-23,PA009,New York,Tokyo,Business Class,618.0
+1769,No,2,None,2024-08-05,PA002,New York,London,Premium Economy,1655.0
+1770,No,0,Egg Free,2024-07-25,PA011,Perth,Tokyo,First Class,443.0
+1771,No,1,Dairy Free,2024-06-24,PA006,Tokyo,London,Economy,1620.0
+1772,No,2,Vegan,2024-04-23,PA008,Perth,New York,Business Class,558.0
+1776,No,2,Vegan,2024-04-12,PA002,New York,London,Premium Economy,1397.5
+1778,No,3,Dairy Free,2024-04-23,PA003,London,Perth,Premium Economy,1490.0
+1780,No,2,Dairy Free,2024-11-07,PA008,Perth,New York,Premium Economy,1377.5
+1783,No,1,Egg Free,2024-01-18,PA012,Tokyo,Perth,First Class,397.0
+1787,No,3,None,2024-01-03,PA007,New York,Perth,Premium Economy,815.0
+1789,No,3,None,2024-11-18,PA004,Perth,London,First Class,264.0
+1791,No,2,None,2024-09-01,PA012,Tokyo,Perth,Premium Economy,725.0
+1792,No,3,Vegan,2024-07-11,PA011,Perth,Tokyo,First Class,423.0
+1797,No,1,Vegan,2024-06-15,PA009,New York,Tokyo,First Class,599.0
+1798,No,1,Egg Free,2024-12-14,PA005,London,Tokyo,First Class,214.0
+1799,No,0,None,2024-05-09,PA004,Perth,London,Economy,2660.0
+1801,No,1,Nut Free,2024-01-20,PA002,New York,London,Economy,1730.0
+1803,No,1,None,2024-12-25,PA004,Perth,London,Business Class,762.0
+1804,No,3,Vegan,2024-07-20,PA004,Perth,London,First Class,636.0
+1807,No,3,None,2024-10-30,PA009,New York,Tokyo,First Class,228.0
+1809,No,2,Nut Free,2024-07-22,PA005,London,Tokyo,Premium Economy,587.5
+1810,No,1,Vegan,2024-06-28,PA010,Tokyo,New York,Premium Economy,640.0
+1812,No,0,Dairy Free,2024-06-07,PA005,London,Tokyo,Premium Economy,1570.0
+1813,No,3,Egg Free,2024-03-01,PA004,Perth,London,First Class,586.0
+1814,No,2,Nut Free,2024-11-26,PA010,Tokyo,New York,First Class,415.0
+1816,No,1,Nut Free,2024-01-27,PA002,New York,London,Premium Economy,1702.5
+1819,No,2,Vegan,2024-11-20,PA006,Tokyo,London,Business Class,536.4
+1820,No,1,Vegetarian,2024-07-22,PA006,Tokyo,London,First Class,249.0
+1822,No,3,Dairy Free,2024-08-12,PA004,Perth,London,Business Class,464.4
+1824,No,2,Egg Free,2024-12-25,PA007,New York,Perth,Business Class,754.7999999999998
+1826,No,1,Vegan,2024-05-10,PA005,London,Tokyo,Premium Economy,605.0
+1829,No,1,Egg Free,2024-03-16,PA001,London,New York,Economy,2370.0
+1831,No,2,Vegetarian,2024-10-21,PA004,Perth,London,Business Class,583.1999999999999
+1832,No,2,Vegan,2024-03-23,PA006,Tokyo,London,Business Class,661.1999999999999
+1834,No,0,Vegetarian,2024-11-01,PA009,New York,Tokyo,Premium Economy,532.5
+1835,No,1,Nut Free,2024-01-12,PA003,London,Perth,Economy,2470.0
+1836,No,0,Vegetarian,2024-07-24,PA004,Perth,London,Premium Economy,1437.5
+1837,No,3,None,2024-10-28,PA005,London,Tokyo,Economy,1540.0
+1839,No,3,Egg Free,2024-12-15,PA012,Tokyo,Perth,Economy,2155.0
+1840,No,1,Dairy Free,2024-12-17,PA011,Perth,Tokyo,Economy,3370.0
+1841,No,1,Dairy Free,2024-02-12,PA005,London,Tokyo,Business Class,241.2
+1842,No,0,Nut Free,2024-05-19,PA010,Tokyo,New York,Economy,1810.0
+1844,No,3,Egg Free,2024-03-25,PA011,Perth,Tokyo,First Class,358.0
+1845,No,2,Dairy Free,2024-03-20,PA008,Perth,New York,Business Class,277.2
+1846,No,0,Egg Free,2024-11-03,PA001,London,New York,First Class,200.0
+1847,No,1,Vegan,2024-07-16,PA006,Tokyo,London,Premium Economy,542.5
+1848,No,3,None,2024-04-29,PA009,New York,Tokyo,Business Class,656.4
+1849,No,0,None,2024-04-28,PA002,New York,London,Economy,2035.0
+1852,No,1,Vegan,2024-06-27,PA006,Tokyo,London,Business Class,468.0
+1853,No,0,Egg Free,2024-01-31,PA002,New York,London,Business Class,368.4
+1854,No,3,Nut Free,2024-12-07,PA009,New York,Tokyo,Premium Economy,855.0
+1857,No,2,Nut Free,2024-11-29,PA003,London,Perth,Premium Economy,527.5
+1858,No,3,None,2024-07-31,PA002,New York,London,Premium Economy,942.5
+1861,No,1,Egg Free,2024-04-03,PA009,New York,Tokyo,Economy,2510.0
+1864,No,3,None,2024-12-07,PA004,Perth,London,First Class,632.0
+1865,No,3,None,2024-01-25,PA007,New York,Perth,Business Class,784.7999999999998
+1869,No,0,Vegetarian,2024-02-19,PA003,London,Perth,Business Class,771.6
+1872,No,2,Vegetarian,2024-09-01,PA004,Perth,London,Premium Economy,1700.0
+1874,No,2,Dairy Free,2024-12-08,PA003,London,Perth,First Class,545.0
+1876,No,2,Dairy Free,2024-04-09,PA002,New York,London,First Class,604.0
+1878,No,2,None,2024-08-10,PA012,Tokyo,Perth,First Class,259.0
+1882,No,2,Egg Free,2024-02-28,PA011,Perth,Tokyo,First Class,443.0
+1883,No,1,Egg Free,2024-02-19,PA005,London,Tokyo,Business Class,690.0
+1884,No,2,Egg Free,2024-03-10,PA003,London,Perth,Economy,1490.0
+1887,No,0,Vegan,2024-03-25,PA001,London,New York,Economy,2905.0
+1888,No,2,Vegan,2024-09-08,PA007,New York,Perth,Premium Economy,707.5
+1890,No,3,Vegetarian,2024-02-29,PA007,New York,Perth,First Class,268.0
+1892,No,2,None,2024-04-21,PA001,London,New York,Economy,3265.0
+1893,No,3,Dairy Free,2024-02-15,PA010,Tokyo,New York,Economy,1830.0
+1894,No,3,None,2024-11-05,PA005,London,Tokyo,Business Class,288.0
+1897,No,0,Vegan,2024-06-25,PA007,New York,Perth,Premium Economy,1425.0
+1899,No,1,None,2024-08-02,PA001,London,New York,Premium Economy,1722.5
+1900,No,0,Vegetarian,2024-08-07,PA009,New York,Tokyo,First Class,580.0
+1901,No,0,Dairy Free,2024-11-29,PA004,Perth,London,Business Class,249.6
+1902,No,2,Vegan,2024-07-14,PA009,New York,Tokyo,Business Class,402.0
+1903,No,1,Egg Free,2024-03-02,PA006,Tokyo,London,First Class,340.0
+1904,No,1,None,2024-02-22,PA006,Tokyo,London,Economy,1225.0
+1905,No,3,Vegan,2024-11-21,PA010,Tokyo,New York,Business Class,795.6
+1908,No,0,Egg Free,2024-11-01,PA003,London,Perth,Business Class,658.8
+1910,No,1,Vegan,2024-02-15,PA012,Tokyo,Perth,Business Class,280.8
+1913,No,0,None,2024-07-22,PA010,Tokyo,New York,First Class,365.0
+1914,No,2,Egg Free,2024-12-13,PA002,New York,London,Economy,2035.0
+1915,No,2,None,2024-11-24,PA001,London,New York,Business Class,406.8
+1916,No,0,Vegetarian,2024-01-17,PA009,New York,Tokyo,Business Class,800.4
+1922,No,3,Egg Free,2024-07-24,PA008,Perth,New York,Business Class,405.6
+1924,No,2,Vegetarian,2024-06-17,PA006,Tokyo,London,Economy,3280.0
+1925,No,2,Dairy Free,2024-10-16,PA002,New York,London,Economy,3215.0
+1927,No,0,Egg Free,2024-03-12,PA010,Tokyo,New York,Premium Economy,655.0
+1930,No,3,Vegetarian,2024-11-19,PA001,London,New York,Business Class,726.0
+1931,No,1,None,2024-04-14,PA011,Perth,Tokyo,Economy,2805.0
+1934,No,2,None,2024-07-20,PA002,New York,London,Economy,3225.0
+1936,No,1,Nut Free,2024-05-27,PA010,Tokyo,New York,Economy,2205.0
+1938,No,0,Vegan,2024-05-05,PA007,New York,Perth,First Class,644.0
+1939,No,2,Nut Free,2024-06-16,PA011,Perth,Tokyo,First Class,368.0
+1940,No,3,Vegan,2024-02-19,PA008,Perth,New York,Economy,1410.0
+1944,No,0,Vegetarian,2024-04-09,PA003,London,Perth,First Class,249.0
+1946,No,1,Egg Free,2024-01-31,PA005,London,Tokyo,Premium Economy,1457.5
+1947,No,2,Dairy Free,2024-04-18,PA002,New York,London,Economy,1740.0
+1949,No,1,Dairy Free,2024-12-23,PA008,Perth,New York,First Class,366.0
+1951,No,2,Vegan,2024-01-19,PA012,Tokyo,Perth,Economy,3050.0
+1952,No,2,Egg Free,2024-10-23,PA002,New York,London,First Class,397.0
+1956,No,2,Dairy Free,2024-09-25,PA006,Tokyo,London,Premium Economy,1495.0
+1957,No,3,Egg Free,2024-04-20,PA012,Tokyo,Perth,Economy,1075.0
+1961,No,2,Dairy Free,2024-08-22,PA005,London,Tokyo,Economy,1385.0
+1962,No,2,Dairy Free,2024-08-19,PA007,New York,Perth,First Class,201.0
+1963,No,1,Nut Free,2024-10-31,PA009,New York,Tokyo,First Class,524.0
+1965,No,0,Vegetarian,2024-04-06,PA012,Tokyo,Perth,Business Class,638.4
+1967,No,1,Vegetarian,2024-06-17,PA005,London,Tokyo,Economy,2335.0
+1969,No,0,Vegan,2024-05-26,PA012,Tokyo,Perth,Premium Economy,1625.0
+1970,No,3,Dairy Free,2024-01-16,PA012,Tokyo,Perth,Economy,2680.0
+1971,No,3,None,2024-09-15,PA006,Tokyo,London,First Class,588.0
+1972,No,3,Nut Free,2024-06-01,PA004,Perth,London,Economy,1430.0
+1973,No,1,Egg Free,2024-10-24,PA010,Tokyo,New York,Economy,2505.0
+1974,No,2,Nut Free,2024-12-11,PA007,New York,Perth,First Class,446.0
+1977,No,2,Nut Free,2024-07-05,PA005,London,Tokyo,Economy,1070.0
+1978,No,2,Egg Free,2024-10-16,PA005,London,Tokyo,Economy,2665.0
+1979,No,1,Egg Free,2024-01-06,PA006,Tokyo,London,Economy,3440.0
+1980,No,0,None,2024-06-18,PA011,Perth,Tokyo,Premium Economy,802.5
+1982,No,0,Vegetarian,2024-10-07,PA003,London,Perth,Economy,1445.0
+1983,No,3,Nut Free,2024-02-29,PA001,London,New York,First Class,409.0
+1986,No,0,None,2024-11-21,PA003,London,Perth,Premium Economy,797.5
+1988,No,1,Egg Free,2024-10-10,PA006,Tokyo,London,Premium Economy,1672.5
+1989,No,2,Vegan,2024-01-20,PA010,Tokyo,New York,First Class,696.0
+1991,No,3,Nut Free,2024-12-24,PA007,New York,Perth,Business Class,301.2
+1995,No,1,Egg Free,2024-01-31,PA005,London,Tokyo,Economy,1365.0
+1996,No,3,None,2024-05-17,PA006,Tokyo,London,Business Class,688.8
+1997,No,0,Egg Free,2024-08-18,PA005,London,Tokyo,Economy,1000.0
+1999,No,1,None,2024-04-29,PA002,New York,London,First Class,282.0
+2001,No,3,Vegan,2024-04-11,PA005,London,Tokyo,Premium Economy,1002.5
+2002,No,0,Dairy Free,2024-08-22,PA007,New York,Perth,Premium Economy,1007.5
+2004,No,1,Vegetarian,2024-02-12,PA002,New York,London,First Class,288.0
+2010,No,0,Vegan,2024-12-14,PA007,New York,Perth,First Class,384.0
+2011,No,2,Egg Free,2024-08-26,PA003,London,Perth,Economy,3165.0
+2013,No,1,Nut Free,2024-08-01,PA004,Perth,London,Business Class,364.8
+2015,No,1,Vegetarian,2024-12-20,PA011,Perth,Tokyo,Premium Economy,577.5
+2024,No,2,Vegan,2024-01-16,PA009,New York,Tokyo,Economy,3365.0
+2025,No,0,Nut Free,2024-04-09,PA009,New York,Tokyo,Premium Economy,1427.5
+2027,No,3,Vegan,2024-05-05,PA008,Perth,New York,First Class,253.0
+2029,No,2,None,2024-03-01,PA010,Tokyo,New York,Economy,1710.0
+2031,No,3,Dairy Free,2024-07-14,PA008,Perth,New York,First Class,556.0
+2032,No,0,Egg Free,2024-07-30,PA010,Tokyo,New York,Business Class,328.8
+2035,No,0,Vegan,2024-05-22,PA012,Tokyo,Perth,First Class,251.0
+2037,No,3,Egg Free,2024-02-27,PA004,Perth,London,Business Class,667.1999999999999
+2038,No,0,Dairy Free,2024-08-07,PA009,New York,Tokyo,Economy,3270.0
+2044,No,2,Egg Free,2024-08-02,PA006,Tokyo,London,Business Class,540.0
+2045,No,0,Vegan,2024-03-05,PA005,London,Tokyo,Business Class,709.1999999999999
+2050,No,2,Dairy Free,2024-02-28,PA011,Perth,Tokyo,First Class,438.0
+2051,No,3,None,2024-12-24,PA005,London,Tokyo,Business Class,597.6
+2054,No,0,Nut Free,2024-03-05,PA008,Perth,New York,Premium Economy,1377.5
+2056,No,2,None,2024-11-27,PA006,Tokyo,London,Premium Economy,1250.0
+2057,No,0,Egg Free,2024-06-17,PA009,New York,Tokyo,Economy,2790.0
+2059,No,2,None,2024-05-06,PA007,New York,Perth,Premium Economy,710.0
+2061,No,2,None,2024-11-04,PA011,Perth,Tokyo,Premium Economy,1520.0
+2062,No,0,Nut Free,2024-11-17,PA007,New York,Perth,Premium Economy,1255.0
+2063,No,3,Vegan,2024-12-22,PA004,Perth,London,Economy,1395.0
+2066,No,0,Dairy Free,2024-02-19,PA005,London,Tokyo,Economy,2600.0
+2067,No,2,Nut Free,2024-10-01,PA012,Tokyo,Perth,First Class,518.0
+2071,No,3,Vegan,2024-02-08,PA010,Tokyo,New York,Economy,1895.0
+2072,No,0,Vegan,2024-06-12,PA001,London,New York,Premium Economy,1540.0
+2075,No,2,Nut Free,2024-01-25,PA010,Tokyo,New York,Economy,1200.0
+2078,No,2,Vegetarian,2024-07-17,PA004,Perth,London,Economy,1735.0
+2081,No,0,Egg Free,2024-12-09,PA012,Tokyo,Perth,Premium Economy,1515.0
+2083,No,2,None,2024-01-09,PA010,Tokyo,New York,First Class,252.0
+2085,No,0,Vegetarian,2024-09-26,PA002,New York,London,Business Class,246.0
+2087,No,3,Vegan,2024-05-13,PA007,New York,Perth,First Class,205.0
+2089,No,1,Egg Free,2024-02-26,PA003,London,Perth,Economy,2320.0
+2090,No,1,Vegan,2024-06-11,PA012,Tokyo,Perth,Business Class,678.0
+2092,No,3,Egg Free,2024-10-28,PA003,London,Perth,Premium Economy,557.5
+2094,No,3,Egg Free,2024-09-06,PA002,New York,London,Business Class,320.4
+2096,No,2,Vegetarian,2024-03-29,PA008,Perth,New York,First Class,240.0
+2103,No,2,Vegetarian,2024-08-27,PA010,Tokyo,New York,Business Class,639.6
+2104,No,1,Dairy Free,2024-09-29,PA007,New York,Perth,Premium Economy,1480.0
+2105,No,1,Dairy Free,2024-08-02,PA001,London,New York,Premium Economy,1077.5
+2109,No,3,Nut Free,2024-05-03,PA008,Perth,New York,Business Class,589.1999999999999
+2112,No,0,Vegetarian,2024-11-03,PA008,Perth,New York,Premium Economy,1205.0
+2113,No,2,Egg Free,2024-09-18,PA006,Tokyo,London,Business Class,570.0
+2114,No,3,Vegan,2024-06-01,PA009,New York,Tokyo,Economy,3270.0
+2118,No,3,Nut Free,2024-01-27,PA007,New York,Perth,Economy,2300.0
+2122,No,2,None,2024-12-20,PA006,Tokyo,London,Business Class,409.2
+2123,No,1,Vegetarian,2024-11-05,PA005,London,Tokyo,Business Class,453.6
+2124,No,3,Nut Free,2024-07-29,PA001,London,New York,Business Class,441.6
+2125,No,1,None,2024-12-05,PA002,New York,London,Business Class,732.0
+2126,No,1,Egg Free,2024-11-02,PA002,New York,London,Economy,2465.0
+2127,No,2,Vegetarian,2024-08-22,PA007,New York,Perth,First Class,415.0
+2129,No,1,Nut Free,2024-10-07,PA008,Perth,New York,Economy,2235.0
+2131,No,0,Vegetarian,2024-10-22,PA004,Perth,London,First Class,548.0
+2133,No,3,None,2024-02-11,PA009,New York,Tokyo,Premium Economy,1412.5
+2137,No,1,Vegetarian,2024-04-29,PA006,Tokyo,London,Economy,1450.0
+2141,No,1,Dairy Free,2024-05-03,PA010,Tokyo,New York,Business Class,388.8
+2142,No,3,Vegetarian,2024-09-29,PA007,New York,Perth,Economy,1580.0
+2143,No,2,None,2024-02-26,PA007,New York,Perth,First Class,255.0
+2144,No,1,Vegan,2024-10-13,PA005,London,Tokyo,Business Class,409.2
+2148,No,0,Vegetarian,2024-11-28,PA010,Tokyo,New York,First Class,327.0
+2149,No,0,Vegan,2024-09-28,PA002,New York,London,Economy,1025.0
+2150,No,1,Vegetarian,2024-03-21,PA002,New York,London,Business Class,799.1999999999998
+2152,No,2,Vegan,2024-10-16,PA012,Tokyo,Perth,Premium Economy,1012.5
+2153,No,1,Nut Free,2024-05-05,PA007,New York,Perth,Economy,2995.0
+2154,No,3,None,2024-12-24,PA004,Perth,London,Business Class,819.6
+2156,No,1,Vegetarian,2024-03-17,PA001,London,New York,Business Class,432.0
+2157,No,2,Nut Free,2024-06-07,PA011,Perth,Tokyo,First Class,668.0
+2158,No,2,Dairy Free,2024-11-24,PA009,New York,Tokyo,Premium Economy,570.0
+2159,No,0,None,2024-10-27,PA006,Tokyo,London,Economy,2955.0
+2162,No,2,Egg Free,2024-06-29,PA003,London,Perth,First Class,675.0
+2163,No,2,Nut Free,2024-03-25,PA007,New York,Perth,Economy,1930.0
+2166,No,2,Vegetarian,2024-11-28,PA006,Tokyo,London,Economy,1065.0
+2167,No,3,None,2024-12-13,PA009,New York,Tokyo,Economy,1760.0
+2168,No,3,Vegetarian,2024-05-26,PA010,Tokyo,New York,Economy,1815.0
+2169,No,1,Vegetarian,2024-07-15,PA011,Perth,Tokyo,Premium Economy,1147.5
+2170,No,3,Dairy Free,2024-05-18,PA009,New York,Tokyo,Premium Economy,1377.5
+2171,No,0,Vegan,2024-09-19,PA005,London,Tokyo,Economy,2605.0
+2174,No,2,None,2024-03-09,PA011,Perth,Tokyo,First Class,224.0
+2175,No,2,Vegan,2024-01-04,PA007,New York,Perth,Business Class,756.0
+2176,No,2,Vegetarian,2024-12-26,PA011,Perth,Tokyo,First Class,328.0
+2177,No,2,Nut Free,2024-12-11,PA001,London,New York,Premium Economy,997.5
+2178,No,1,Dairy Free,2024-05-03,PA009,New York,Tokyo,Economy,3160.0
+2179,No,3,Egg Free,2024-04-06,PA008,Perth,New York,Business Class,751.1999999999998
+2180,No,3,Nut Free,2024-11-23,PA011,Perth,Tokyo,Economy,2440.0
+2181,No,3,Nut Free,2024-10-19,PA006,Tokyo,London,First Class,256.0
+2185,No,2,Dairy Free,2024-02-15,PA004,Perth,London,Economy,1460.0
+2188,No,0,Egg Free,2024-01-15,PA002,New York,London,Economy,1560.0
+2190,No,0,Nut Free,2024-01-05,PA004,Perth,London,Business Class,463.2
+2193,No,0,Vegetarian,2024-03-06,PA003,London,Perth,First Class,629.0
+2198,No,1,Egg Free,2024-05-08,PA005,London,Tokyo,First Class,671.0
+2200,No,2,Nut Free,2024-03-08,PA007,New York,Perth,First Class,248.0
+2201,No,0,Dairy Free,2024-12-11,PA005,London,Tokyo,First Class,237.0
+2202,No,2,Nut Free,2024-01-06,PA006,Tokyo,London,First Class,222.0
+2203,No,0,Nut Free,2024-04-16,PA006,Tokyo,London,Business Class,410.4
+2207,No,3,Nut Free,2024-10-27,PA003,London,Perth,Premium Economy,1055.0
+2208,No,0,Egg Free,2024-08-23,PA003,London,Perth,Premium Economy,1237.5
+2209,No,3,Vegan,2024-06-16,PA005,London,Tokyo,Economy,1445.0
+2211,No,1,None,2024-07-27,PA011,Perth,Tokyo,Business Class,687.6
+2212,No,2,Egg Free,2024-12-26,PA012,Tokyo,Perth,First Class,690.0
+2213,No,2,Nut Free,2024-06-13,PA004,Perth,London,Premium Economy,1377.5
+2215,No,3,Vegan,2024-12-05,PA001,London,New York,Economy,2335.0
+2216,No,3,Vegetarian,2024-04-02,PA008,Perth,New York,Business Class,466.8
+2218,No,1,Vegan,2024-12-13,PA007,New York,Perth,Business Class,784.7999999999998
+2219,No,1,Nut Free,2024-10-20,PA001,London,New York,First Class,579.0
+2222,No,1,None,2024-10-09,PA003,London,Perth,Economy,3220.0
+2227,No,2,None,2024-05-07,PA010,Tokyo,New York,Economy,1610.0
+2228,No,2,Nut Free,2024-02-04,PA012,Tokyo,Perth,Business Class,712.8
+2232,No,2,Egg Free,2024-06-11,PA006,Tokyo,London,Business Class,711.6
+2233,No,2,Egg Free,2024-12-16,PA005,London,Tokyo,First Class,238.0
+2235,No,0,Vegetarian,2024-08-09,PA001,London,New York,Premium Economy,657.5
+2237,No,1,None,2024-05-25,PA004,Perth,London,First Class,212.0
+2238,No,0,Vegan,2024-07-13,PA002,New York,London,First Class,664.0
+2242,No,0,Dairy Free,2024-03-31,PA004,Perth,London,Economy,1340.0
+2249,No,3,Nut Free,2024-11-11,PA003,London,Perth,Business Class,270.0
+2250,No,0,Vegetarian,2024-01-22,PA006,Tokyo,London,Business Class,447.6
+2251,No,1,None,2024-04-21,PA012,Tokyo,Perth,Economy,1375.0
+2252,No,1,Dairy Free,2024-09-12,PA002,New York,London,Economy,1925.0
+2254,No,3,Nut Free,2024-08-31,PA007,New York,Perth,Business Class,710.4
+2255,No,1,Nut Free,2024-11-16,PA007,New York,Perth,Economy,3425.0
+2257,No,1,None,2024-05-07,PA008,Perth,New York,First Class,644.0
+2258,No,3,Dairy Free,2024-09-25,PA006,Tokyo,London,First Class,514.0
+2260,No,3,Dairy Free,2024-06-13,PA001,London,New York,Economy,2920.0
+2261,No,1,None,2024-01-17,PA010,Tokyo,New York,Premium Economy,1255.0
+2263,No,2,Vegan,2024-02-26,PA006,Tokyo,London,Business Class,696.0
+2264,No,2,Vegan,2024-12-18,PA004,Perth,London,Economy,3170.0
+2267,No,2,Dairy Free,2024-12-25,PA006,Tokyo,London,First Class,443.0
+2268,No,2,None,2024-11-02,PA010,Tokyo,New York,Premium Economy,1695.0
+2271,No,2,Egg Free,2024-02-22,PA005,London,Tokyo,Economy,3360.0
+2273,No,0,Vegetarian,2024-06-22,PA011,Perth,Tokyo,Business Class,820.7999999999998
+2276,No,2,Vegan,2024-03-18,PA006,Tokyo,London,First Class,651.0
+2281,No,3,Vegetarian,2024-05-12,PA012,Tokyo,Perth,Premium Economy,1290.0
+2283,No,1,Egg Free,2024-07-23,PA004,Perth,London,Business Class,688.8
+2285,No,1,Dairy Free,2024-05-16,PA007,New York,Perth,Business Class,676.8
+2287,No,1,Dairy Free,2024-04-30,PA004,Perth,London,Business Class,240.0
+2290,No,3,Vegetarian,2024-09-20,PA012,Tokyo,Perth,Economy,2635.0
+2291,No,0,None,2024-08-05,PA010,Tokyo,New York,Premium Economy,555.0
+2293,No,2,Vegan,2024-06-01,PA012,Tokyo,Perth,First Class,647.0
+2294,No,3,Egg Free,2024-04-15,PA006,Tokyo,London,Business Class,568.8
+2295,No,2,Nut Free,2024-01-11,PA002,New York,London,Economy,2705.0
+2299,No,1,Nut Free,2024-02-07,PA012,Tokyo,Perth,Premium Economy,750.0
+2300,No,0,Vegan,2024-04-03,PA007,New York,Perth,Premium Economy,997.5
+2303,No,0,Egg Free,2024-03-06,PA004,Perth,London,Economy,1130.0
+2307,No,2,Vegetarian,2024-01-20,PA009,New York,Tokyo,First Class,256.0
+2309,No,0,Dairy Free,2024-09-05,PA001,London,New York,Economy,1930.0
+2311,No,1,None,2024-07-01,PA006,Tokyo,London,Business Class,477.6
+2315,No,2,Dairy Free,2024-04-15,PA010,Tokyo,New York,Economy,2935.0
+2317,No,1,Egg Free,2024-05-09,PA010,Tokyo,New York,Business Class,246.0
+2319,No,0,Vegan,2024-01-17,PA003,London,Perth,First Class,563.0
+2320,No,1,Vegan,2024-04-27,PA012,Tokyo,Perth,Economy,3190.0
+2321,No,0,Vegetarian,2024-05-11,PA012,Tokyo,Perth,Economy,3190.0
+2322,No,2,Vegan,2024-10-18,PA007,New York,Perth,Business Class,555.6
+2324,No,0,Egg Free,2024-03-07,PA003,London,Perth,Premium Economy,1330.0
+2325,No,2,Nut Free,2024-06-10,PA001,London,New York,Premium Economy,925.0
+2328,No,0,Vegan,2024-04-12,PA010,Tokyo,New York,Business Class,778.7999999999998
+2335,No,2,Nut Free,2024-02-22,PA008,Perth,New York,Economy,2390.0
+2338,No,1,Vegan,2024-04-02,PA002,New York,London,Business Class,525.6
+2339,No,2,None,2024-03-11,PA006,Tokyo,London,Business Class,764.4
+2342,No,1,Vegetarian,2024-03-22,PA012,Tokyo,Perth,Economy,1030.0
+2343,No,3,Egg Free,2024-09-11,PA011,Perth,Tokyo,Economy,2905.0
+2344,No,3,Vegetarian,2024-05-02,PA008,Perth,New York,Economy,1255.0
+2348,No,2,Vegetarian,2024-03-29,PA003,London,Perth,Premium Economy,1700.0
+2350,No,0,Vegan,2024-06-25,PA005,London,Tokyo,Premium Economy,1032.5
+2351,No,2,None,2024-01-22,PA008,Perth,New York,First Class,230.0
+2352,No,1,Vegetarian,2024-04-23,PA006,Tokyo,London,Business Class,483.6
+2355,No,1,Vegan,2024-10-25,PA005,London,Tokyo,Economy,3125.0
+2356,No,3,Vegan,2024-11-17,PA001,London,New York,Economy,2100.0
+2358,No,3,Egg Free,2024-10-23,PA009,New York,Tokyo,Premium Economy,1500.0
+2362,No,1,Vegetarian,2024-12-05,PA010,Tokyo,New York,Premium Economy,932.5
+2363,No,2,Vegan,2024-05-26,PA011,Perth,Tokyo,Premium Economy,1542.5
+2364,No,2,Vegan,2024-06-13,PA005,London,Tokyo,Economy,1480.0
+2366,No,1,Dairy Free,2024-12-28,PA012,Tokyo,Perth,First Class,241.0
+2367,No,0,Dairy Free,2024-06-04,PA007,New York,Perth,First Class,252.0
+2369,No,3,Vegan,2024-10-06,PA001,London,New York,Economy,1615.0
+2373,No,1,None,2024-05-05,PA008,Perth,New York,First Class,352.0
+2375,No,1,Vegetarian,2024-12-29,PA002,New York,London,Business Class,643.1999999999999
+2378,No,0,Vegan,2024-07-08,PA003,London,Perth,Premium Economy,1657.5
+2379,No,2,Vegetarian,2024-05-03,PA002,New York,London,First Class,627.0
+2380,No,1,None,2024-03-29,PA012,Tokyo,Perth,Premium Economy,1475.0
+2385,No,2,Nut Free,2024-12-16,PA006,Tokyo,London,Business Class,410.4
+2386,No,0,Dairy Free,2024-09-03,PA006,Tokyo,London,Premium Economy,1352.5
+2387,No,2,Dairy Free,2024-06-17,PA010,Tokyo,New York,Premium Economy,1175.0
+2388,No,1,Vegan,2024-09-01,PA002,New York,London,Premium Economy,1320.0
+2389,No,2,None,2024-10-11,PA011,Perth,Tokyo,Business Class,450.0
+2390,No,0,None,2024-02-06,PA005,London,Tokyo,Business Class,465.6
+2391,No,1,Vegan,2024-06-21,PA008,Perth,New York,Business Class,511.2
+2392,No,2,Vegetarian,2024-08-16,PA001,London,New York,Business Class,549.6
+2393,No,3,Vegan,2024-09-04,PA007,New York,Perth,Business Class,595.1999999999999
+2396,No,2,Vegetarian,2024-06-21,PA007,New York,Perth,Economy,1955.0
+2400,No,3,None,2024-06-12,PA002,New York,London,First Class,453.0
+2402,No,3,Vegetarian,2024-09-10,PA008,Perth,New York,Economy,2570.0
+2403,No,3,None,2024-04-17,PA004,Perth,London,First Class,597.0
+2404,No,3,Dairy Free,2024-03-02,PA001,London,New York,Premium Economy,1022.5
+2405,No,1,Dairy Free,2024-07-16,PA005,London,Tokyo,Economy,3340.0
+2406,No,3,Nut Free,2024-10-03,PA011,Perth,Tokyo,Business Class,776.4
+2408,No,2,Vegetarian,2024-12-10,PA012,Tokyo,Perth,First Class,314.0
+2409,No,0,Vegetarian,2024-11-12,PA008,Perth,New York,Economy,2700.0
+2411,No,3,None,2024-11-04,PA001,London,New York,Business Class,448.8
+2412,No,1,Nut Free,2024-07-15,PA007,New York,Perth,Business Class,735.6
+2417,No,3,Vegetarian,2024-01-11,PA001,London,New York,First Class,440.0
+2418,No,3,Vegan,2024-04-07,PA005,London,Tokyo,Economy,2690.0
+2420,No,1,Vegan,2024-12-15,PA005,London,Tokyo,Premium Economy,560.0
+2421,No,2,Vegan,2024-05-23,PA006,Tokyo,London,Premium Economy,1677.5
+2422,No,1,Egg Free,2024-09-15,PA007,New York,Perth,Premium Economy,1112.5
+2423,No,1,Vegetarian,2024-09-23,PA010,Tokyo,New York,Economy,2350.0
+2425,No,2,None,2024-01-15,PA005,London,Tokyo,Economy,2660.0
+2426,No,3,Vegan,2024-10-30,PA011,Perth,Tokyo,Economy,2280.0
+2427,No,1,Egg Free,2024-12-04,PA003,London,Perth,First Class,333.0
+2429,No,0,Vegan,2024-02-04,PA005,London,Tokyo,Economy,3005.0
+2430,No,3,Egg Free,2024-11-01,PA001,London,New York,Economy,2780.0
+2432,No,1,Nut Free,2024-01-09,PA012,Tokyo,Perth,Economy,2990.0
+2434,No,0,Dairy Free,2024-08-12,PA003,London,Perth,Premium Economy,920.0
+2435,No,1,None,2024-04-25,PA004,Perth,London,First Class,238.0
+2436,No,0,Dairy Free,2024-09-14,PA007,New York,Perth,Economy,2925.0
+2439,No,0,Nut Free,2024-08-13,PA005,London,Tokyo,Premium Economy,1425.0
+2440,No,2,Nut Free,2024-07-04,PA005,London,Tokyo,Economy,2700.0
+2443,No,2,Egg Free,2024-07-22,PA002,New York,London,Economy,3455.0
+2444,No,0,Vegan,2024-02-18,PA005,London,Tokyo,Business Class,387.6
+2445,No,2,Nut Free,2024-07-20,PA011,Perth,Tokyo,Business Class,744.0
+2446,No,0,Nut Free,2024-07-10,PA001,London,New York,Economy,1910.0
+2452,No,3,Nut Free,2024-11-02,PA012,Tokyo,Perth,First Class,342.0
+2455,No,3,None,2024-06-30,PA007,New York,Perth,Business Class,680.4
+2458,No,1,Nut Free,2024-09-06,PA002,New York,London,Economy,1495.0
+2459,No,0,Vegan,2024-08-08,PA009,New York,Tokyo,Economy,3130.0
+2460,No,3,Dairy Free,2024-11-03,PA007,New York,Perth,Economy,2325.0
+2462,No,3,Nut Free,2024-08-03,PA003,London,Perth,First Class,507.0
+2463,No,0,None,2024-09-10,PA004,Perth,London,Business Class,570.0
+2465,No,2,None,2024-08-14,PA001,London,New York,First Class,691.0
+2466,No,2,Vegetarian,2024-07-22,PA011,Perth,Tokyo,Premium Economy,1682.5
+2470,No,0,Vegetarian,2024-01-03,PA003,London,Perth,Business Class,283.2
+2471,No,2,None,2024-12-27,PA008,Perth,New York,Economy,3315.0
+2475,No,3,Dairy Free,2024-07-31,PA003,London,Perth,Economy,1450.0
+2476,No,3,Nut Free,2024-12-27,PA007,New York,Perth,Economy,1670.0
+2477,No,2,Egg Free,2024-08-03,PA011,Perth,Tokyo,Premium Economy,795.0
+2478,No,2,Egg Free,2024-05-20,PA008,Perth,New York,Premium Economy,1642.5
+2480,No,3,Dairy Free,2024-03-04,PA005,London,Tokyo,Business Class,459.6
+2483,No,0,Vegetarian,2024-06-13,PA008,Perth,New York,Business Class,625.1999999999999
+2484,No,1,Vegan,2024-07-01,PA003,London,Perth,Business Class,490.8
+2487,No,2,Vegetarian,2024-03-11,PA009,New York,Tokyo,Business Class,592.8
+2490,No,0,Dairy Free,2024-12-18,PA004,Perth,London,Economy,1855.0
+2491,No,1,Dairy Free,2024-09-30,PA012,Tokyo,Perth,Economy,1845.0
+2495,No,1,Vegan,2024-12-21,PA005,London,Tokyo,First Class,385.0
+2498,No,3,Vegetarian,2024-01-29,PA004,Perth,London,Business Class,700.8
+2500,No,3,Vegetarian,2024-02-15,PA012,Tokyo,Perth,Economy,3375.0
+2502,No,3,Egg Free,2024-04-29,PA005,London,Tokyo,Economy,2070.0
+2503,No,1,Nut Free,2024-02-12,PA012,Tokyo,Perth,Business Class,304.8
+2504,No,3,Vegetarian,2024-04-26,PA001,London,New York,Premium Economy,932.5
+2505,No,0,Nut Free,2024-01-28,PA006,Tokyo,London,Business Class,776.4
+2508,No,1,Nut Free,2024-07-04,PA011,Perth,Tokyo,Premium Economy,777.5
+2509,No,1,Vegetarian,2024-03-03,PA005,London,Tokyo,Business Class,568.8
+2510,No,2,None,2024-04-22,PA011,Perth,Tokyo,Economy,1175.0
+2512,No,1,Vegetarian,2024-03-02,PA008,Perth,New York,Economy,3300.0
+2514,No,0,None,2024-09-02,PA012,Tokyo,Perth,Economy,2980.0
+2515,No,1,Nut Free,2024-08-13,PA002,New York,London,Economy,3180.0
+2520,No,2,Vegetarian,2024-05-17,PA006,Tokyo,London,Business Class,248.4
+2521,No,1,Nut Free,2024-02-05,PA006,Tokyo,London,First Class,570.0
+2525,No,1,Vegan,2024-01-18,PA001,London,New York,Business Class,518.4
+2526,No,2,Vegan,2024-02-29,PA009,New York,Tokyo,Business Class,284.4
+2527,No,3,Egg Free,2024-03-13,PA007,New York,Perth,First Class,373.0
+2528,No,2,Vegetarian,2024-03-13,PA008,Perth,New York,Economy,2635.0
+2530,No,2,Vegetarian,2024-01-02,PA005,London,Tokyo,Economy,1215.0
+2531,No,3,Nut Free,2024-10-07,PA001,London,New York,Premium Economy,940.0
+2534,No,2,Dairy Free,2024-08-25,PA011,Perth,Tokyo,Economy,3195.0
+2535,No,2,Vegan,2024-11-02,PA009,New York,Tokyo,First Class,258.0
+2540,No,0,Vegan,2024-06-12,PA005,London,Tokyo,Economy,2435.0
+2544,No,0,Vegan,2024-11-27,PA005,London,Tokyo,Business Class,734.4
+2546,No,0,Vegetarian,2024-12-08,PA003,London,Perth,Economy,1800.0
+2547,No,3,Dairy Free,2024-06-04,PA010,Tokyo,New York,First Class,362.0
+2550,No,0,Vegan,2024-08-08,PA008,Perth,New York,Premium Economy,555.0
+2551,No,0,Nut Free,2024-05-06,PA011,Perth,Tokyo,Business Class,368.4
+2552,No,0,Nut Free,2024-11-10,PA006,Tokyo,London,Economy,2100.0
+2554,No,1,Vegan,2024-07-08,PA002,New York,London,Premium Economy,965.0
+2555,No,3,Vegetarian,2024-05-15,PA003,London,Perth,Premium Economy,540.0
+2556,No,3,Vegan,2024-01-23,PA008,Perth,New York,First Class,432.0
+2558,No,1,Vegan,2024-04-21,PA006,Tokyo,London,First Class,257.0
+2562,No,3,None,2024-02-07,PA010,Tokyo,New York,Economy,1450.0
+2565,No,2,Dairy Free,2024-11-25,PA010,Tokyo,New York,First Class,589.0
+2566,No,1,Vegan,2024-03-12,PA005,London,Tokyo,Business Class,708.0
+2568,No,2,Dairy Free,2024-09-09,PA004,Perth,London,First Class,453.0
+2570,No,0,Dairy Free,2024-02-24,PA009,New York,Tokyo,Business Class,340.8
+2571,No,1,Vegetarian,2024-11-13,PA010,Tokyo,New York,Premium Economy,742.5
+2573,No,1,Vegan,2024-04-28,PA003,London,Perth,Business Class,348.0
+2574,No,2,Nut Free,2024-09-29,PA007,New York,Perth,Business Class,256.8
+2575,No,0,None,2024-05-18,PA004,Perth,London,Economy,1090.0
+2582,No,2,Egg Free,2024-08-19,PA006,Tokyo,London,Economy,1645.0
+2585,No,3,None,2024-12-07,PA009,New York,Tokyo,Premium Economy,1615.0
+2586,No,0,None,2024-08-29,PA006,Tokyo,London,First Class,640.0
+2587,No,1,Egg Free,2024-10-11,PA002,New York,London,Economy,2275.0
+2591,No,3,None,2024-05-21,PA012,Tokyo,Perth,Economy,2440.0
+2592,No,1,Vegan,2024-11-10,PA009,New York,Tokyo,First Class,472.0
+2593,No,3,Egg Free,2024-11-11,PA006,Tokyo,London,First Class,678.0
+2603,No,0,Nut Free,2024-10-17,PA001,London,New York,Premium Economy,535.0
+2604,No,0,None,2024-05-20,PA009,New York,Tokyo,First Class,279.0
+2605,No,0,None,2024-02-07,PA009,New York,Tokyo,Business Class,670.8
+2608,No,1,Vegetarian,2024-04-19,PA012,Tokyo,Perth,First Class,227.0
+2609,No,2,Vegan,2024-07-29,PA008,Perth,New York,First Class,485.0
+2610,No,1,Vegan,2024-05-15,PA003,London,Perth,Business Class,325.2
+2611,No,3,Nut Free,2024-01-24,PA005,London,Tokyo,Premium Economy,1197.5
+2613,No,3,Dairy Free,2024-09-20,PA004,Perth,London,First Class,427.0
+2615,No,0,Vegan,2024-02-01,PA009,New York,Tokyo,Premium Economy,592.5
+2616,No,0,Dairy Free,2024-10-23,PA003,London,Perth,Economy,3465.0
+2619,No,1,None,2024-08-29,PA006,Tokyo,London,Business Class,720.0
+2624,No,1,Vegan,2024-02-25,PA011,Perth,Tokyo,Economy,1400.0
+2625,No,1,Nut Free,2024-03-09,PA003,London,Perth,Business Class,584.4
+2626,No,2,Vegan,2024-11-11,PA011,Perth,Tokyo,First Class,551.0
+2630,No,2,None,2024-04-12,PA007,New York,Perth,Business Class,464.4
+2632,No,3,Vegetarian,2024-04-12,PA007,New York,Perth,Economy,1725.0
+2635,No,3,Dairy Free,2024-08-22,PA008,Perth,New York,Premium Economy,1275.0
+2639,No,2,Nut Free,2024-07-03,PA003,London,Perth,Economy,2285.0
+2643,No,2,Dairy Free,2024-02-10,PA007,New York,Perth,First Class,459.0
+2644,No,0,Dairy Free,2024-08-04,PA003,London,Perth,Premium Economy,1700.0
+2645,No,2,Nut Free,2024-09-30,PA002,New York,London,Premium Economy,897.5
+2646,No,3,Nut Free,2024-10-01,PA007,New York,Perth,Premium Economy,885.0
+2648,No,3,Vegan,2024-06-24,PA004,Perth,London,Business Class,570.0
+2650,No,2,Egg Free,2024-09-16,PA004,Perth,London,Premium Economy,1437.5
+2651,No,1,Vegetarian,2024-09-06,PA001,London,New York,Business Class,393.6
+2653,No,3,Vegetarian,2024-05-15,PA004,Perth,London,Business Class,445.2
+2654,No,3,Egg Free,2024-08-19,PA008,Perth,New York,Economy,2035.0
+2657,No,0,None,2024-02-24,PA003,London,Perth,Economy,3275.0
+2661,No,1,Vegetarian,2024-05-19,PA006,Tokyo,London,Premium Economy,1307.5
+2663,No,1,None,2024-12-17,PA012,Tokyo,Perth,Economy,2030.0
+2664,No,0,None,2024-08-01,PA009,New York,Tokyo,Economy,1530.0
+2668,No,1,Vegan,2024-05-16,PA004,Perth,London,Premium Economy,687.5
+2671,No,3,Dairy Free,2024-01-27,PA004,Perth,London,Economy,1580.0
+2673,No,3,Vegan,2024-11-15,PA012,Tokyo,Perth,Economy,2670.0
+2675,No,3,Nut Free,2024-09-03,PA011,Perth,Tokyo,First Class,310.0
+2677,No,2,Vegetarian,2024-11-11,PA005,London,Tokyo,Premium Economy,1062.5
+2682,No,0,Vegan,2024-10-31,PA006,Tokyo,London,First Class,261.0
+2684,No,2,Dairy Free,2024-06-29,PA003,London,Perth,Economy,2320.0
+2687,No,0,Vegan,2024-11-04,PA008,Perth,New York,Premium Economy,1135.0
+2688,No,3,Dairy Free,2024-09-24,PA011,Perth,Tokyo,Business Class,498.0
+2689,No,0,None,2024-02-24,PA010,Tokyo,New York,First Class,628.0
+2691,No,2,Vegetarian,2024-07-07,PA011,Perth,Tokyo,Business Class,291.6
+2693,No,3,Vegan,2024-04-03,PA006,Tokyo,London,Business Class,740.4
+2694,No,1,Vegetarian,2024-08-24,PA012,Tokyo,Perth,Business Class,693.6
+2696,No,3,Nut Free,2024-07-26,PA006,Tokyo,London,Economy,2030.0
+2698,No,1,Vegan,2024-03-11,PA011,Perth,Tokyo,Economy,2630.0
+2700,No,1,Egg Free,2024-08-18,PA008,Perth,New York,Premium Economy,617.5
+2701,No,2,Vegan,2024-12-15,PA010,Tokyo,New York,Premium Economy,1727.5
+2702,No,3,Egg Free,2024-04-15,PA002,New York,London,Economy,1720.0
+2704,No,1,Egg Free,2024-11-26,PA006,Tokyo,London,Premium Economy,1237.5
+2706,No,0,Vegetarian,2024-11-27,PA001,London,New York,Business Class,543.6
+2709,No,3,None,2024-11-23,PA008,Perth,New York,Business Class,454.8
+2710,No,1,None,2024-03-03,PA001,London,New York,First Class,522.0
+2711,No,2,Vegan,2024-05-10,PA006,Tokyo,London,First Class,609.0
+2713,No,2,None,2024-07-12,PA011,Perth,Tokyo,Economy,2825.0
+2715,No,3,Vegetarian,2024-12-03,PA011,Perth,Tokyo,Business Class,570.0
+2716,No,0,Nut Free,2024-02-19,PA010,Tokyo,New York,Premium Economy,1502.5
+2718,No,0,Egg Free,2024-06-09,PA011,Perth,Tokyo,Economy,2245.0
+2719,No,2,Egg Free,2024-01-30,PA007,New York,Perth,Business Class,516.0
+2720,No,1,Dairy Free,2024-07-24,PA008,Perth,New York,Business Class,594.0
+2721,No,0,Vegan,2024-08-17,PA006,Tokyo,London,Economy,1505.0
+2722,No,2,Vegetarian,2024-07-31,PA004,Perth,London,Economy,2575.0
+2725,No,0,Egg Free,2024-01-11,PA009,New York,Tokyo,Business Class,388.8
+2726,No,1,None,2024-04-16,PA012,Tokyo,Perth,Business Class,752.4
+2729,No,1,Dairy Free,2024-06-23,PA006,Tokyo,London,Business Class,439.2
+2730,No,1,Egg Free,2024-11-18,PA004,Perth,London,Economy,2790.0
+2731,No,3,Vegetarian,2024-01-02,PA008,Perth,New York,Business Class,811.1999999999998
+2734,No,3,Vegan,2024-04-25,PA009,New York,Tokyo,Business Class,240.0
+2735,No,1,Vegetarian,2024-12-27,PA008,Perth,New York,Economy,1050.0
+2739,No,2,Vegan,2024-07-05,PA004,Perth,London,Premium Economy,877.5
+2741,No,3,Vegan,2024-11-05,PA001,London,New York,Economy,1350.0
+2745,No,1,Egg Free,2024-09-14,PA001,London,New York,Premium Economy,1625.0
+2749,No,0,Dairy Free,2024-10-29,PA007,New York,Perth,Economy,3200.0
+2753,No,3,Vegan,2024-08-01,PA011,Perth,Tokyo,First Class,414.0
+2754,No,2,Vegan,2024-05-13,PA006,Tokyo,London,Business Class,313.2
+2755,No,1,Vegetarian,2024-03-19,PA008,Perth,New York,Economy,3305.0
+2756,No,3,Vegan,2024-04-13,PA001,London,New York,Business Class,590.4
+2758,No,0,Vegan,2024-09-08,PA012,Tokyo,Perth,Business Class,792.0
+2759,No,2,Dairy Free,2024-10-22,PA008,Perth,New York,Premium Economy,965.0
+2760,No,0,Egg Free,2024-05-30,PA003,London,Perth,Business Class,493.2
+2762,No,1,Nut Free,2024-07-09,PA006,Tokyo,London,First Class,600.0
+2764,No,0,Egg Free,2024-08-28,PA012,Tokyo,Perth,Business Class,410.4
+2765,No,1,Egg Free,2024-10-24,PA009,New York,Tokyo,Premium Economy,777.5
+2770,No,0,Dairy Free,2024-09-03,PA012,Tokyo,Perth,Premium Economy,1652.5
+2771,No,2,Vegetarian,2024-10-18,PA004,Perth,London,First Class,275.0
+2774,No,0,Vegetarian,2024-11-22,PA010,Tokyo,New York,Economy,3375.0
+2776,No,3,Egg Free,2024-02-10,PA010,Tokyo,New York,Economy,3455.0
+2778,No,0,Egg Free,2024-04-07,PA011,Perth,Tokyo,Premium Economy,910.0
+2784,No,0,Vegetarian,2024-06-05,PA009,New York,Tokyo,First Class,243.0
+2786,No,1,Egg Free,2024-04-23,PA008,Perth,New York,Economy,2760.0
+2788,No,3,Dairy Free,2024-09-21,PA005,London,Tokyo,Business Class,385.2
+2789,No,0,None,2024-09-18,PA003,London,Perth,Economy,2535.0
+2791,No,0,Nut Free,2024-07-15,PA011,Perth,Tokyo,Economy,1655.0
+2792,No,1,Vegan,2024-05-12,PA002,New York,London,Premium Economy,1290.0
+2798,No,1,Egg Free,2024-03-11,PA008,Perth,New York,Economy,1365.0
+2800,No,1,Vegetarian,2024-03-08,PA012,Tokyo,Perth,First Class,525.0
+2802,No,1,Egg Free,2024-03-05,PA011,Perth,Tokyo,First Class,490.0
+2803,No,2,Vegan,2024-11-10,PA010,Tokyo,New York,Premium Economy,875.0
+2807,No,1,Nut Free,2024-10-10,PA007,New York,Perth,Premium Economy,822.5
+2808,No,1,Egg Free,2024-04-16,PA003,London,Perth,First Class,294.0
+2809,No,2,Dairy Free,2024-12-17,PA009,New York,Tokyo,Business Class,327.6
+2810,No,0,Dairy Free,2024-02-12,PA012,Tokyo,Perth,Premium Economy,715.0
+2811,No,2,Egg Free,2024-09-24,PA009,New York,Tokyo,First Class,509.0
+2815,No,3,Vegetarian,2024-10-24,PA005,London,Tokyo,First Class,306.0
+2818,No,0,Vegan,2024-11-14,PA001,London,New York,First Class,259.0
+2819,No,0,Vegan,2024-06-20,PA012,Tokyo,Perth,Economy,3395.0
+2821,No,0,None,2024-10-16,PA010,Tokyo,New York,Economy,2385.0
+2822,No,0,Nut Free,2024-11-05,PA007,New York,Perth,Premium Economy,515.0
+2823,No,1,Nut Free,2024-09-10,PA001,London,New York,Premium Economy,890.0
+2824,No,0,Dairy Free,2024-03-07,PA008,Perth,New York,First Class,242.0
+2827,No,3,Dairy Free,2024-12-04,PA007,New York,Perth,Business Class,242.4
+2830,No,3,Vegetarian,2024-07-18,PA007,New York,Perth,First Class,609.0
+2832,No,2,Egg Free,2024-05-19,PA001,London,New York,First Class,399.0
+2834,No,1,None,2024-01-04,PA012,Tokyo,Perth,Economy,1500.0
+2837,No,2,None,2024-12-22,PA010,Tokyo,New York,First Class,219.0
+2838,No,3,Vegetarian,2024-12-23,PA003,London,Perth,First Class,382.0
+2839,No,3,Vegan,2024-07-28,PA003,London,Perth,Premium Economy,1585.0
+2841,No,0,Vegetarian,2024-01-14,PA012,Tokyo,Perth,Premium Economy,1425.0
+2843,No,1,Vegetarian,2024-01-27,PA001,London,New York,First Class,682.0
+2845,No,2,None,2024-02-09,PA008,Perth,New York,Business Class,465.6
+2846,No,3,Vegan,2024-01-19,PA007,New York,Perth,Business Class,606.0
+2847,No,3,Dairy Free,2024-02-20,PA007,New York,Perth,First Class,337.0
+2850,No,0,Vegan,2024-05-27,PA006,Tokyo,London,Economy,2425.0
+2851,No,2,Nut Free,2024-04-13,PA011,Perth,Tokyo,Economy,1750.0
+2852,No,0,Egg Free,2024-09-13,PA005,London,Tokyo,Business Class,240.0
+2853,No,3,Dairy Free,2024-04-25,PA009,New York,Tokyo,Economy,2080.0
+2854,No,1,Nut Free,2024-08-07,PA004,Perth,London,Premium Economy,1617.5
+2855,No,0,Vegetarian,2024-07-31,PA009,New York,Tokyo,Economy,3115.0
+2859,No,1,Nut Free,2024-07-13,PA010,Tokyo,New York,Economy,1125.0
+2861,No,0,None,2024-05-14,PA007,New York,Perth,Business Class,781.1999999999998
+2867,No,3,Dairy Free,2024-07-16,PA006,Tokyo,London,Premium Economy,1397.5
+2871,No,3,Vegan,2024-03-19,PA008,Perth,New York,First Class,646.0
+2874,No,3,Dairy Free,2024-05-11,PA011,Perth,Tokyo,Premium Economy,732.5
+2875,No,3,Vegetarian,2024-11-21,PA010,Tokyo,New York,Economy,1015.0
+2876,No,2,Nut Free,2024-08-26,PA010,Tokyo,New York,Business Class,369.6
+2879,No,0,Dairy Free,2024-07-09,PA002,New York,London,Premium Economy,635.0
+2881,No,3,None,2024-01-11,PA010,Tokyo,New York,First Class,226.0
+2884,No,2,Vegetarian,2024-11-02,PA011,Perth,Tokyo,Business Class,315.6
+2887,No,3,Dairy Free,2024-12-18,PA011,Perth,Tokyo,Premium Economy,1267.5
+2889,No,3,None,2024-02-04,PA004,Perth,London,Economy,1900.0
+2891,No,3,Dairy Free,2024-11-15,PA008,Perth,New York,First Class,533.0
+2895,No,1,Dairy Free,2024-04-12,PA012,Tokyo,Perth,Business Class,672.0
+2897,No,3,Egg Free,2024-01-10,PA005,London,Tokyo,Business Class,705.6
+2898,No,2,Dairy Free,2024-03-14,PA002,New York,London,Business Class,247.2
+2899,No,1,None,2024-08-25,PA004,Perth,London,Economy,1435.0
+2900,No,1,Nut Free,2024-05-20,PA003,London,Perth,Economy,3215.0
+2901,No,3,Egg Free,2024-05-08,PA001,London,New York,Economy,3325.0
+2905,No,2,Egg Free,2024-08-16,PA011,Perth,Tokyo,Business Class,345.6
+2908,No,2,Vegan,2024-02-19,PA006,Tokyo,London,Economy,3380.0
+2911,No,0,Dairy Free,2024-04-26,PA004,Perth,London,Economy,1870.0
+2912,No,0,Vegetarian,2024-08-30,PA009,New York,Tokyo,Premium Economy,1615.0
+2914,No,3,Vegetarian,2024-03-20,PA003,London,Perth,First Class,523.0
+2915,No,1,Nut Free,2024-11-04,PA012,Tokyo,Perth,Economy,3280.0
+2917,No,3,Vegan,2024-01-11,PA010,Tokyo,New York,First Class,567.0
+2919,No,2,Vegan,2024-05-16,PA007,New York,Perth,Economy,1780.0
+2920,No,3,Vegetarian,2024-06-19,PA007,New York,Perth,Economy,2685.0
+2921,No,1,None,2024-10-22,PA011,Perth,Tokyo,First Class,395.0
+2922,No,3,Dairy Free,2024-03-29,PA008,Perth,New York,First Class,639.0
+2923,No,2,Vegetarian,2024-02-12,PA011,Perth,Tokyo,Premium Economy,1615.0
+2924,No,1,None,2024-04-29,PA011,Perth,Tokyo,Economy,2330.0
+2926,No,1,None,2024-12-17,PA004,Perth,London,Premium Economy,1317.5
+2927,No,3,None,2024-09-05,PA004,Perth,London,Premium Economy,1350.0
+2928,No,1,Egg Free,2024-10-08,PA005,London,Tokyo,Business Class,772.7999999999998
+2929,No,2,Egg Free,2024-01-09,PA006,Tokyo,London,Economy,2845.0
+2930,No,2,Vegetarian,2024-01-29,PA002,New York,London,Economy,2280.0
+2931,No,2,Vegetarian,2024-10-04,PA005,London,Tokyo,Premium Economy,1512.5
+2932,No,1,Vegan,2024-10-03,PA002,New York,London,Premium Economy,785.0
+2934,No,1,Vegan,2024-04-22,PA008,Perth,New York,First Class,398.0
+2935,No,1,Egg Free,2024-09-06,PA001,London,New York,Economy,2830.0
+2936,No,0,Dairy Free,2024-05-30,PA009,New York,Tokyo,Premium Economy,1550.0
+2937,No,0,Dairy Free,2024-09-03,PA001,London,New York,Premium Economy,837.5
+2938,No,2,Egg Free,2024-09-20,PA012,Tokyo,Perth,First Class,557.0
+2940,No,3,Dairy Free,2024-12-24,PA010,Tokyo,New York,Premium Economy,1660.0
+2941,No,1,Dairy Free,2024-06-11,PA005,London,Tokyo,First Class,300.0
+2943,No,1,Vegetarian,2024-07-30,PA011,Perth,Tokyo,Premium Economy,1305.0
+2944,No,3,None,2024-09-22,PA005,London,Tokyo,Premium Economy,627.5
+2946,No,2,Vegetarian,2024-04-03,PA003,London,Perth,Premium Economy,605.0
+2949,No,2,Egg Free,2024-05-27,PA005,London,Tokyo,First Class,608.0
+2951,No,2,Egg Free,2024-12-21,PA009,New York,Tokyo,First Class,272.0
+2952,No,3,Egg Free,2024-10-30,PA006,Tokyo,London,Economy,3195.0
+2953,No,0,None,2024-12-20,PA007,New York,Perth,Premium Economy,1292.5
+2954,No,1,Nut Free,2024-01-27,PA006,Tokyo,London,First Class,495.0
+2955,No,3,Vegetarian,2024-04-04,PA007,New York,Perth,Business Class,253.2
+2957,No,2,None,2024-01-15,PA003,London,Perth,Premium Economy,1617.5
+2958,No,2,Egg Free,2024-12-12,PA005,London,Tokyo,Premium Economy,802.5
+2959,No,0,Vegetarian,2024-03-02,PA009,New York,Tokyo,Economy,1910.0
+2960,No,0,Egg Free,2024-10-08,PA010,Tokyo,New York,Business Class,405.6
+2965,No,2,None,2024-04-19,PA006,Tokyo,London,Economy,3455.0
+2969,No,3,Egg Free,2024-12-27,PA008,Perth,New York,Business Class,428.4
+2972,No,3,Nut Free,2024-01-19,PA010,Tokyo,New York,First Class,252.0
+2973,No,2,Egg Free,2024-02-20,PA007,New York,Perth,Economy,1280.0
+2974,No,3,Nut Free,2024-03-31,PA007,New York,Perth,Economy,1100.0
+2976,No,1,Vegan,2024-11-23,PA008,Perth,New York,Premium Economy,1370.0
+2977,No,1,Egg Free,2024-05-04,PA012,Tokyo,Perth,First Class,587.0
+2979,No,3,Nut Free,2024-11-05,PA007,New York,Perth,First Class,256.0
+2980,No,1,Nut Free,2024-02-12,PA004,Perth,London,Economy,3175.0
+2981,No,2,Vegan,2024-11-02,PA007,New York,Perth,Business Class,595.1999999999999
+2984,No,1,Egg Free,2024-03-26,PA008,Perth,New York,First Class,523.0
+2985,No,1,Nut Free,2024-12-25,PA003,London,Perth,First Class,674.0
+2986,No,1,Vegan,2024-12-18,PA012,Tokyo,Perth,Business Class,552.0
+2988,No,2,Dairy Free,2024-07-10,PA005,London,Tokyo,First Class,479.0
+2990,No,3,Vegetarian,2024-04-06,PA002,New York,London,Premium Economy,587.5
+2992,No,0,Vegetarian,2024-09-04,PA007,New York,Perth,Economy,3215.0
+2994,No,2,None,2024-09-12,PA007,New York,Perth,Business Class,832.7999999999998
+2996,No,1,Nut Free,2024-06-04,PA006,Tokyo,London,First Class,303.0
+2997,No,2,Nut Free,2024-08-06,PA007,New York,Perth,Premium Economy,1072.5
+2998,No,2,Vegetarian,2024-09-13,PA003,London,Perth,Business Class,700.8
+2999,No,3,Egg Free,2024-11-24,PA009,New York,Tokyo,First Class,207.0
+3001,No,3,Dairy Free,2024-01-11,PA011,Perth,Tokyo,Premium Economy,1570.0
+3003,No,1,Vegetarian,2024-12-07,PA001,London,New York,Business Class,608.4
+3004,No,0,Egg Free,2024-10-18,PA002,New York,London,First Class,594.0
+3005,No,0,Vegan,2024-05-29,PA006,Tokyo,London,Premium Economy,880.0
+3006,No,2,Egg Free,2024-06-17,PA004,Perth,London,First Class,621.0
+3009,No,0,Egg Free,2024-08-25,PA010,Tokyo,New York,First Class,250.0
+3013,No,3,Vegetarian,2024-07-13,PA003,London,Perth,Premium Economy,1072.5
+3014,No,1,Vegetarian,2024-11-17,PA007,New York,Perth,Economy,2370.0
+3018,No,1,Dairy Free,2024-04-25,PA010,Tokyo,New York,Business Class,758.4
+3019,No,0,Vegetarian,2024-09-30,PA012,Tokyo,Perth,First Class,658.0
+3021,No,3,None,2024-08-01,PA006,Tokyo,London,Business Class,746.4
+3022,No,3,Vegetarian,2024-12-28,PA004,Perth,London,First Class,323.0
+3023,No,1,Nut Free,2024-07-20,PA009,New York,Tokyo,First Class,302.0
+3024,No,3,Vegan,2024-02-27,PA004,Perth,London,Business Class,594.0
+3034,No,1,Nut Free,2024-12-21,PA005,London,Tokyo,First Class,233.0
+3036,No,1,Nut Free,2024-11-04,PA004,Perth,London,Business Class,772.7999999999998
+3038,No,2,Dairy Free,2024-01-24,PA003,London,Perth,Premium Economy,1552.5
+3041,No,0,Egg Free,2024-12-11,PA012,Tokyo,Perth,Business Class,531.6
+3043,No,1,Vegan,2024-02-03,PA008,Perth,New York,Premium Economy,1697.5
+3045,No,0,None,2024-01-31,PA011,Perth,Tokyo,Premium Economy,1192.5
+3046,No,3,Egg Free,2024-11-06,PA007,New York,Perth,Business Class,333.6
+3047,No,1,Vegan,2024-03-03,PA006,Tokyo,London,Economy,1140.0
+3049,No,2,Nut Free,2024-02-12,PA010,Tokyo,New York,Economy,2345.0
+3051,No,3,None,2024-04-14,PA002,New York,London,Premium Economy,717.5
+3052,No,2,None,2024-12-15,PA007,New York,Perth,Premium Economy,882.5
+3053,No,2,Vegetarian,2024-10-10,PA006,Tokyo,London,Economy,1560.0
+3055,No,0,Egg Free,2024-02-05,PA011,Perth,Tokyo,Economy,3075.0
+3057,No,3,Dairy Free,2024-12-05,PA003,London,Perth,First Class,226.0
+3058,No,1,Vegan,2024-10-26,PA001,London,New York,Premium Economy,1137.5
+3061,No,1,Dairy Free,2024-02-17,PA001,London,New York,Economy,2230.0
+3062,No,3,Egg Free,2024-10-08,PA003,London,Perth,Business Class,648.0
+3065,No,3,Vegetarian,2024-07-05,PA010,Tokyo,New York,Business Class,639.6
+3067,No,3,Vegan,2024-05-29,PA010,Tokyo,New York,Premium Economy,1745.0
+3068,No,3,Egg Free,2024-02-27,PA005,London,Tokyo,Economy,2900.0
+3069,No,3,Dairy Free,2024-05-04,PA004,Perth,London,Premium Economy,1277.5
+3071,No,2,Nut Free,2024-11-08,PA008,Perth,New York,Business Class,348.0
+3074,No,3,Dairy Free,2024-03-29,PA012,Tokyo,Perth,Economy,3400.0
+3075,No,1,Egg Free,2024-06-26,PA001,London,New York,Premium Economy,610.0
+3076,No,3,Egg Free,2024-11-22,PA008,Perth,New York,Business Class,787.1999999999998
+3077,No,2,None,2024-04-12,PA002,New York,London,Premium Economy,1585.0
+3078,No,1,Egg Free,2024-03-26,PA002,New York,London,Business Class,505.2
+3079,No,1,Vegan,2024-07-02,PA011,Perth,Tokyo,First Class,507.0
+3080,No,2,None,2024-06-22,PA007,New York,Perth,Business Class,446.4
+3081,No,3,Vegan,2024-06-20,PA008,Perth,New York,Business Class,818.4
+3087,No,0,Nut Free,2024-06-18,PA010,Tokyo,New York,Premium Economy,1630.0
+3088,No,3,Vegan,2024-09-23,PA006,Tokyo,London,Business Class,451.2
+3089,No,1,Nut Free,2024-11-18,PA003,London,Perth,First Class,244.0
+3091,No,1,None,2024-01-26,PA010,Tokyo,New York,First Class,261.0
+3092,No,3,None,2024-06-24,PA004,Perth,London,Economy,2305.0
+3096,No,1,Vegan,2024-10-26,PA004,Perth,London,First Class,352.0
+3097,No,3,Vegan,2024-11-26,PA006,Tokyo,London,Economy,3340.0
+3098,No,2,Egg Free,2024-09-06,PA008,Perth,New York,Economy,2345.0
+3100,No,2,Nut Free,2024-03-24,PA006,Tokyo,London,Premium Economy,605.0
+3101,No,3,Vegetarian,2024-05-02,PA008,Perth,New York,Premium Economy,1210.0
+3102,No,2,Egg Free,2024-09-14,PA008,Perth,New York,Premium Economy,1605.0
+3103,No,2,Nut Free,2024-09-14,PA009,New York,Tokyo,Premium Economy,1055.0
+3105,No,2,Vegan,2024-12-03,PA010,Tokyo,New York,First Class,428.0
+3106,No,3,Nut Free,2024-07-04,PA001,London,New York,Economy,2700.0
+3107,No,0,Nut Free,2024-05-31,PA002,New York,London,Economy,2745.0
+3109,No,0,Nut Free,2024-12-15,PA011,Perth,Tokyo,Premium Economy,1600.0
+3111,No,1,None,2024-01-10,PA001,London,New York,Premium Economy,1017.5
+3112,No,1,Vegan,2024-02-02,PA006,Tokyo,London,Premium Economy,740.0
+3116,No,2,Nut Free,2024-09-21,PA011,Perth,Tokyo,Economy,3285.0
+3117,No,1,Nut Free,2024-06-21,PA007,New York,Perth,Economy,3075.0
+3118,No,2,Vegetarian,2024-04-19,PA004,Perth,London,Economy,1795.0
+3120,No,3,Vegetarian,2024-03-08,PA003,London,Perth,Business Class,753.6
+3121,No,1,None,2024-03-24,PA007,New York,Perth,Business Class,328.8
+3122,No,3,Dairy Free,2024-06-30,PA003,London,Perth,Business Class,763.1999999999998
+3124,No,0,Dairy Free,2024-01-09,PA001,London,New York,Economy,2680.0
+3126,No,3,Dairy Free,2024-07-16,PA002,New York,London,First Class,679.0
+3127,No,3,None,2024-02-22,PA005,London,Tokyo,Business Class,633.6
+3131,No,0,Egg Free,2024-12-02,PA007,New York,Perth,Business Class,603.6
+3134,No,0,None,2024-12-22,PA006,Tokyo,London,Business Class,536.4
+3135,No,0,Vegan,2024-11-07,PA004,Perth,London,First Class,585.0
+3137,No,2,Dairy Free,2024-12-24,PA007,New York,Perth,Business Class,495.6
+3138,No,2,Vegetarian,2024-12-23,PA008,Perth,New York,Economy,2105.0
+3139,No,0,Vegetarian,2024-07-30,PA010,Tokyo,New York,Economy,1095.0
+3140,No,0,Egg Free,2024-04-22,PA008,Perth,New York,Economy,3185.0
+3142,No,2,Egg Free,2024-07-15,PA009,New York,Tokyo,Premium Economy,1075.0
+3143,No,0,None,2024-12-25,PA011,Perth,Tokyo,Premium Economy,1002.5
+3147,No,3,Vegan,2024-03-17,PA010,Tokyo,New York,Business Class,783.6
+3151,No,2,None,2024-04-12,PA001,London,New York,Economy,1930.0
+3154,No,3,Nut Free,2024-04-13,PA002,New York,London,Business Class,286.8
+3155,No,1,Nut Free,2024-07-30,PA004,Perth,London,Premium Economy,1605.0
+3156,No,2,Dairy Free,2024-12-24,PA012,Tokyo,Perth,Business Class,364.8
+3162,No,2,Vegetarian,2024-04-15,PA008,Perth,New York,Business Class,538.8
+3164,No,1,Dairy Free,2024-10-20,PA011,Perth,Tokyo,Premium Economy,725.0
+3165,No,1,Egg Free,2024-08-29,PA001,London,New York,First Class,556.0
+3166,No,2,Vegetarian,2024-03-22,PA008,Perth,New York,Business Class,348.0
+3167,No,0,Egg Free,2024-01-21,PA011,Perth,Tokyo,First Class,204.0
+3169,No,2,Vegetarian,2024-06-14,PA006,Tokyo,London,First Class,471.0
+3171,No,3,Vegan,2024-04-02,PA009,New York,Tokyo,Economy,2430.0
+3174,No,1,Egg Free,2024-02-04,PA003,London,Perth,First Class,355.0
+3176,No,1,Nut Free,2024-10-25,PA011,Perth,Tokyo,Premium Economy,1365.0
+3177,No,2,Vegan,2024-12-25,PA005,London,Tokyo,Business Class,654.0
+3185,No,1,Vegetarian,2024-06-28,PA010,Tokyo,New York,First Class,590.0
+3186,No,2,None,2024-04-15,PA007,New York,Perth,Premium Economy,790.0
+3189,No,3,Vegan,2024-04-07,PA008,Perth,New York,Economy,3270.0
+3190,No,2,Vegan,2024-08-01,PA012,Tokyo,Perth,First Class,361.0
+3191,No,2,Nut Free,2024-03-22,PA003,London,Perth,First Class,432.0
+3193,No,1,Egg Free,2024-12-17,PA002,New York,London,Economy,1180.0
+3196,No,0,Dairy Free,2024-02-13,PA001,London,New York,Premium Economy,792.5
+3199,No,0,Egg Free,2024-12-08,PA001,London,New York,First Class,236.0
+3202,No,1,Vegetarian,2024-06-17,PA006,Tokyo,London,Business Class,625.1999999999999
+3203,No,0,Vegetarian,2024-08-21,PA004,Perth,London,Premium Economy,727.5
+3204,No,1,Vegetarian,2024-09-30,PA006,Tokyo,London,First Class,519.0
+3208,No,1,Vegetarian,2024-06-14,PA010,Tokyo,New York,First Class,379.0
+3212,No,0,Vegetarian,2024-08-09,PA001,London,New York,Premium Economy,1707.5
+3214,No,3,None,2024-09-02,PA005,London,Tokyo,Business Class,294.0
+3215,No,1,Egg Free,2024-11-19,PA003,London,Perth,Business Class,520.8
+3218,No,0,Vegetarian,2024-11-24,PA009,New York,Tokyo,Business Class,549.6
+3226,No,0,None,2024-09-25,PA007,New York,Perth,Premium Economy,1330.0
+3228,No,1,Egg Free,2024-09-26,PA011,Perth,Tokyo,Business Class,490.8
+3229,No,1,None,2024-09-07,PA006,Tokyo,London,Economy,1280.0
+3230,No,3,Vegan,2024-06-05,PA002,New York,London,Business Class,552.0
+3231,No,0,Dairy Free,2024-09-16,PA010,Tokyo,New York,Premium Economy,1480.0
+3233,No,2,Vegetarian,2024-09-06,PA005,London,Tokyo,Premium Economy,782.5
+3234,No,0,Vegetarian,2024-04-07,PA010,Tokyo,New York,Premium Economy,795.0
+3235,No,3,Egg Free,2024-04-29,PA007,New York,Perth,Business Class,298.8
+3238,No,2,Egg Free,2024-04-24,PA005,London,Tokyo,First Class,639.0
+3239,No,1,Nut Free,2024-01-18,PA007,New York,Perth,First Class,575.0
+3240,No,0,Vegetarian,2024-05-30,PA008,Perth,New York,First Class,296.0
+3241,No,1,Vegan,2024-10-16,PA008,Perth,New York,Economy,1270.0
+3242,No,3,Vegan,2024-04-22,PA007,New York,Perth,Premium Economy,1337.5
+3243,No,0,Nut Free,2024-05-20,PA012,Tokyo,Perth,First Class,528.0
+3244,No,0,Vegan,2024-11-08,PA003,London,Perth,First Class,560.0
+3245,No,2,Egg Free,2024-09-29,PA006,Tokyo,London,First Class,561.0
+3246,No,0,Vegan,2024-05-19,PA010,Tokyo,New York,Premium Economy,1052.5
+3252,No,2,Egg Free,2024-11-20,PA010,Tokyo,New York,First Class,529.0
+3253,No,2,Vegan,2024-02-12,PA001,London,New York,Business Class,258.0
+3254,No,3,Vegetarian,2024-02-25,PA003,London,Perth,Business Class,834.0
+3255,No,1,Nut Free,2024-08-15,PA002,New York,London,Premium Economy,1382.5
+3257,No,1,None,2024-01-31,PA001,London,New York,Economy,2985.0
+3258,No,1,Nut Free,2024-05-28,PA005,London,Tokyo,Business Class,801.6
+3261,No,3,Vegetarian,2024-03-12,PA007,New York,Perth,Economy,2865.0
+3263,No,1,None,2024-05-10,PA009,New York,Tokyo,Premium Economy,682.5
+3264,No,0,Nut Free,2024-08-26,PA010,Tokyo,New York,Premium Economy,617.5
+3265,No,1,Vegan,2024-08-05,PA003,London,Perth,Premium Economy,995.0
+3266,No,2,Nut Free,2024-11-26,PA011,Perth,Tokyo,Premium Economy,787.5
+3267,No,3,None,2024-02-25,PA005,London,Tokyo,Economy,1765.0
+3269,No,3,Nut Free,2024-09-24,PA008,Perth,New York,Economy,2420.0
+3271,No,2,None,2024-08-18,PA008,Perth,New York,Business Class,670.8
+3276,No,0,Nut Free,2024-02-20,PA004,Perth,London,First Class,219.0
+3278,No,1,None,2024-10-26,PA008,Perth,New York,Economy,1540.0
+3279,No,3,Dairy Free,2024-07-11,PA004,Perth,London,Premium Economy,1120.0
+3283,No,0,Dairy Free,2024-04-16,PA006,Tokyo,London,Premium Economy,1657.5
+3285,No,2,Dairy Free,2024-08-06,PA012,Tokyo,Perth,Premium Economy,922.5
+3286,No,3,Vegetarian,2024-06-07,PA005,London,Tokyo,Business Class,733.1999999999998
+3287,No,1,Vegan,2024-02-05,PA012,Tokyo,Perth,First Class,540.0
+3290,No,2,Vegetarian,2024-09-12,PA011,Perth,Tokyo,Business Class,310.8
+3292,No,3,Nut Free,2024-12-27,PA009,New York,Tokyo,First Class,457.0
+3295,No,3,Dairy Free,2024-10-03,PA006,Tokyo,London,Premium Economy,787.5
+3297,No,1,Vegetarian,2024-01-20,PA012,Tokyo,Perth,Premium Economy,640.0
+3300,No,0,Egg Free,2024-02-28,PA005,London,Tokyo,First Class,638.0
+3301,No,2,Vegan,2024-09-29,PA012,Tokyo,Perth,Business Class,349.2
+3302,No,0,Dairy Free,2024-12-05,PA006,Tokyo,London,Business Class,312.0
+3307,No,3,Egg Free,2024-10-24,PA003,London,Perth,Premium Economy,912.5
+3308,No,3,Nut Free,2024-12-02,PA004,Perth,London,Premium Economy,1227.5
+3309,No,1,Dairy Free,2024-05-01,PA012,Tokyo,Perth,Premium Economy,1275.0
+3311,No,0,None,2024-08-09,PA009,New York,Tokyo,Premium Economy,1137.5
+3315,No,0,Egg Free,2024-11-02,PA008,Perth,New York,Premium Economy,805.0
+3316,No,3,Vegetarian,2024-10-12,PA008,Perth,New York,Economy,2195.0
+3320,No,2,Egg Free,2024-02-16,PA006,Tokyo,London,Economy,2350.0
+3323,No,1,Dairy Free,2024-10-20,PA002,New York,London,Premium Economy,970.0
+3324,No,2,Nut Free,2024-01-19,PA009,New York,Tokyo,Business Class,682.8
+3325,No,1,Vegetarian,2024-09-10,PA001,London,New York,Business Class,716.4
+3328,No,3,Vegetarian,2024-06-14,PA003,London,Perth,First Class,693.0
+3329,No,3,Egg Free,2024-12-26,PA008,Perth,New York,Economy,1965.0
+3332,No,1,Egg Free,2024-09-22,PA007,New York,Perth,Economy,2535.0
+3333,No,0,None,2024-02-18,PA006,Tokyo,London,Economy,2420.0
+3336,No,2,Egg Free,2024-02-02,PA012,Tokyo,Perth,Business Class,793.1999999999998
+3337,No,0,Vegan,2024-04-05,PA011,Perth,Tokyo,Economy,2600.0
+3338,No,2,Vegan,2024-09-11,PA001,London,New York,Economy,2145.0
+3343,No,0,Vegetarian,2024-11-05,PA001,London,New York,Business Class,354.0
+3346,No,3,None,2024-12-02,PA001,London,New York,First Class,524.0
+3347,No,0,Vegan,2024-10-19,PA001,London,New York,Premium Economy,1492.5
+3349,No,1,Vegan,2024-07-14,PA009,New York,Tokyo,Business Class,382.8
+3350,No,0,Egg Free,2024-02-21,PA003,London,Perth,First Class,357.0
+3353,No,3,Nut Free,2024-01-09,PA002,New York,London,Business Class,718.8
+3354,No,1,Dairy Free,2024-01-13,PA001,London,New York,Premium Economy,1352.5
+3355,No,2,Dairy Free,2024-05-06,PA011,Perth,Tokyo,Business Class,681.6
+3356,No,2,Vegetarian,2024-12-08,PA002,New York,London,First Class,694.0
+3361,No,3,Vegan,2024-01-15,PA006,Tokyo,London,Premium Economy,627.5
+3366,No,2,Dairy Free,2024-03-24,PA007,New York,Perth,Premium Economy,1040.0
+3367,No,0,None,2024-10-31,PA005,London,Tokyo,Premium Economy,1610.0
+3369,No,0,Dairy Free,2024-04-06,PA004,Perth,London,Economy,3480.0
+3370,No,3,None,2024-02-22,PA005,London,Tokyo,Premium Economy,1452.5
+3372,No,0,Vegan,2024-05-15,PA001,London,New York,Business Class,289.2
+3377,No,0,Nut Free,2024-07-02,PA003,London,Perth,First Class,398.0
+3380,No,3,Dairy Free,2024-09-04,PA012,Tokyo,Perth,Economy,1940.0
+3383,No,1,Vegan,2024-12-06,PA005,London,Tokyo,Business Class,462.0
+3384,No,1,Egg Free,2024-06-07,PA012,Tokyo,Perth,Premium Economy,1472.5
+3386,No,1,Nut Free,2024-04-21,PA009,New York,Tokyo,Economy,1170.0
+3388,No,2,Egg Free,2024-04-02,PA012,Tokyo,Perth,Economy,2880.0
+3390,No,1,Dairy Free,2024-08-01,PA002,New York,London,Business Class,744.0
+3391,No,1,Egg Free,2024-07-18,PA010,Tokyo,New York,Premium Economy,1122.5
+3392,No,0,Egg Free,2024-12-18,PA009,New York,Tokyo,Economy,3465.0
+3395,No,2,Dairy Free,2024-11-04,PA002,New York,London,First Class,513.0
+3397,No,0,Egg Free,2024-02-07,PA006,Tokyo,London,Business Class,468.0
+3401,No,2,Vegetarian,2024-09-04,PA005,London,Tokyo,Economy,2530.0
+3402,No,3,Vegan,2024-05-25,PA007,New York,Perth,First Class,311.0
+3406,No,2,Nut Free,2024-10-19,PA009,New York,Tokyo,Business Class,265.2
+3411,No,2,Vegan,2024-08-29,PA001,London,New York,Economy,3395.0
+3412,No,0,Egg Free,2024-08-07,PA003,London,Perth,First Class,665.0
+3414,No,1,Egg Free,2024-03-25,PA001,London,New York,First Class,279.0
+3415,No,0,None,2024-01-13,PA002,New York,London,Economy,3040.0
+3417,No,2,Egg Free,2024-04-02,PA009,New York,Tokyo,Economy,2830.0
+3418,No,3,Egg Free,2024-12-28,PA010,Tokyo,New York,Business Class,703.1999999999999
+3419,No,1,Nut Free,2024-06-26,PA008,Perth,New York,Business Class,439.2
+3420,No,1,Egg Free,2024-11-24,PA001,London,New York,Premium Economy,567.5
+3421,No,0,None,2024-07-20,PA012,Tokyo,Perth,First Class,677.0
+3425,No,1,Nut Free,2024-12-22,PA001,London,New York,Premium Economy,1475.0
+3426,No,1,Egg Free,2024-12-14,PA001,London,New York,First Class,348.0
+3428,No,1,Vegetarian,2024-09-25,PA004,Perth,London,First Class,683.0
+3431,No,1,Nut Free,2024-09-24,PA012,Tokyo,Perth,Premium Economy,610.0
+3432,No,3,Nut Free,2024-02-21,PA002,New York,London,Business Class,273.6
+3433,No,3,None,2024-04-29,PA012,Tokyo,Perth,First Class,691.0
+3435,No,1,Egg Free,2024-01-08,PA010,Tokyo,New York,Business Class,438.0
+3436,No,2,Vegan,2024-01-29,PA002,New York,London,Business Class,624.0
+3437,No,3,Vegetarian,2024-09-09,PA003,London,Perth,First Class,259.0
+3438,No,2,Nut Free,2024-08-29,PA010,Tokyo,New York,Premium Economy,1075.0
+3440,No,1,Nut Free,2024-08-27,PA001,London,New York,Economy,2700.0
+3441,No,3,Egg Free,2024-03-02,PA012,Tokyo,Perth,Business Class,368.4
+3443,No,3,Egg Free,2024-01-19,PA011,Perth,Tokyo,Economy,2055.0
+3444,No,0,Dairy Free,2024-11-06,PA009,New York,Tokyo,Premium Economy,520.0
+3445,No,3,Nut Free,2024-03-22,PA006,Tokyo,London,Premium Economy,735.0
+3446,No,0,Vegetarian,2024-10-30,PA008,Perth,New York,First Class,218.0
+3448,No,3,Dairy Free,2024-05-23,PA003,London,Perth,Premium Economy,675.0
+3449,No,3,Vegetarian,2024-03-25,PA010,Tokyo,New York,Premium Economy,1275.0
+3450,No,0,Vegetarian,2024-09-02,PA003,London,Perth,First Class,346.0
+3452,No,3,Dairy Free,2024-07-28,PA002,New York,London,Business Class,738.0
+3453,No,2,None,2024-05-14,PA009,New York,Tokyo,First Class,352.0
+3454,No,3,Vegetarian,2024-09-14,PA010,Tokyo,New York,Business Class,444.0
+3456,No,1,Nut Free,2024-12-29,PA006,Tokyo,London,Premium Economy,1397.5
+3457,No,0,Egg Free,2024-11-26,PA006,Tokyo,London,Economy,1395.0
+3459,No,1,Egg Free,2024-02-12,PA008,Perth,New York,Business Class,636.0
+3464,No,3,Vegan,2024-06-08,PA007,New York,Perth,Economy,2725.0
+3467,No,0,Egg Free,2024-10-06,PA008,Perth,New York,Premium Economy,1140.0
+3472,No,1,Vegan,2024-07-30,PA004,Perth,London,Economy,2250.0
+3474,No,0,Vegetarian,2024-12-08,PA005,London,Tokyo,Economy,2105.0
+3476,No,1,Vegetarian,2024-12-26,PA011,Perth,Tokyo,First Class,400.0
+3477,No,3,Vegan,2024-07-11,PA001,London,New York,First Class,514.0
+3478,No,1,Vegan,2024-05-12,PA004,Perth,London,Premium Economy,590.0
+3481,No,2,Egg Free,2024-10-05,PA009,New York,Tokyo,Business Class,642.0
+3482,No,2,Nut Free,2024-06-08,PA006,Tokyo,London,Premium Economy,865.0
+3484,No,0,Egg Free,2024-02-11,PA006,Tokyo,London,Premium Economy,835.0
+3485,No,0,Dairy Free,2024-07-09,PA005,London,Tokyo,First Class,424.0
+3488,No,0,Vegan,2024-02-06,PA007,New York,Perth,First Class,618.0
+3491,No,0,Dairy Free,2024-01-09,PA008,Perth,New York,Economy,1865.0
+3492,No,2,Dairy Free,2024-09-26,PA007,New York,Perth,Premium Economy,1545.0
+3494,No,0,Vegan,2024-12-12,PA003,London,Perth,First Class,349.0
+3495,No,2,Vegan,2024-01-23,PA009,New York,Tokyo,Economy,1315.0
+3498,No,1,Egg Free,2024-02-03,PA008,Perth,New York,Economy,1280.0
+3499,No,0,Dairy Free,2024-04-24,PA011,Perth,Tokyo,Business Class,500.4
+3500,No,3,Dairy Free,2024-11-10,PA008,Perth,New York,Premium Economy,932.5
+3502,No,2,Egg Free,2024-12-15,PA004,Perth,London,Economy,2500.0
+3503,No,0,Egg Free,2024-12-24,PA010,Tokyo,New York,Economy,1170.0
+3504,No,0,Vegetarian,2024-06-20,PA005,London,Tokyo,Business Class,746.4
+3505,No,3,None,2024-09-04,PA005,London,Tokyo,Business Class,355.2
+3507,No,3,Dairy Free,2024-06-06,PA007,New York,Perth,Business Class,645.6
+3511,No,3,Dairy Free,2024-10-04,PA006,Tokyo,London,Business Class,448.8
+3512,No,1,Egg Free,2024-02-27,PA001,London,New York,Premium Economy,925.0
+3516,No,2,Dairy Free,2024-11-01,PA012,Tokyo,Perth,Premium Economy,1185.0
+3517,No,0,None,2024-03-10,PA008,Perth,New York,First Class,466.0
+3518,No,3,Nut Free,2024-01-03,PA001,London,New York,First Class,584.0
+3519,No,2,Vegetarian,2024-11-28,PA008,Perth,New York,Economy,2990.0
+3521,No,2,None,2024-04-03,PA007,New York,Perth,Economy,1000.0
+3523,No,3,Egg Free,2024-06-30,PA002,New York,London,Business Class,583.1999999999999
+3526,No,1,Egg Free,2024-12-24,PA001,London,New York,Economy,1800.0
+3527,No,3,Vegan,2024-10-22,PA002,New York,London,Economy,2840.0
+3529,No,1,Egg Free,2024-02-11,PA011,Perth,Tokyo,Business Class,574.8
+3534,No,2,Dairy Free,2024-06-05,PA012,Tokyo,Perth,Premium Economy,1357.5
+3537,No,0,Dairy Free,2024-06-30,PA008,Perth,New York,First Class,533.0
+3539,No,1,Egg Free,2024-08-24,PA011,Perth,Tokyo,Economy,1980.0
+3542,No,3,Egg Free,2024-07-16,PA011,Perth,Tokyo,Economy,2430.0
+3544,No,1,Egg Free,2024-04-16,PA007,New York,Perth,Premium Economy,802.5
+3548,No,3,Vegetarian,2024-05-02,PA008,Perth,New York,Economy,1200.0
+3550,No,2,Vegetarian,2024-04-27,PA012,Tokyo,Perth,Premium Economy,1297.5
+3553,No,2,None,2024-04-18,PA002,New York,London,Economy,2100.0
+3560,No,1,Egg Free,2024-09-08,PA011,Perth,Tokyo,Economy,1195.0
+3561,No,0,Vegetarian,2024-12-03,PA003,London,Perth,Economy,1590.0
+3566,No,0,Nut Free,2024-08-04,PA001,London,New York,Premium Economy,705.0
+3569,No,1,Egg Free,2024-06-10,PA011,Perth,Tokyo,Business Class,339.6
+3570,No,0,Vegan,2024-09-04,PA009,New York,Tokyo,Business Class,634.8
+3571,No,3,Vegan,2024-03-11,PA002,New York,London,Business Class,526.8
+3577,No,1,None,2024-07-17,PA012,Tokyo,Perth,Premium Economy,517.5
+3580,No,1,Vegan,2024-02-01,PA001,London,New York,Economy,1950.0
+3581,No,0,Vegetarian,2024-04-15,PA005,London,Tokyo,Business Class,556.8
+3582,No,2,Dairy Free,2024-04-11,PA012,Tokyo,Perth,First Class,348.0
+3585,No,1,Vegetarian,2024-06-04,PA012,Tokyo,Perth,Economy,2420.0
+3589,No,0,Vegan,2024-05-16,PA005,London,Tokyo,Premium Economy,1400.0
+3590,No,0,None,2024-08-02,PA004,Perth,London,Business Class,668.4
+3591,No,1,Egg Free,2024-05-16,PA006,Tokyo,London,Business Class,271.2
+3594,No,0,Vegan,2024-07-08,PA012,Tokyo,Perth,First Class,335.0
+3595,No,1,Egg Free,2024-11-23,PA002,New York,London,Economy,2280.0
+3596,No,2,None,2024-09-14,PA010,Tokyo,New York,Business Class,554.4
+3597,No,2,Egg Free,2024-09-26,PA008,Perth,New York,Economy,2970.0
+3600,No,3,Vegan,2024-08-17,PA003,London,Perth,Economy,1745.0
+3602,No,2,Vegan,2024-02-11,PA009,New York,Tokyo,Premium Economy,1012.5
+3603,No,3,Dairy Free,2024-07-16,PA004,Perth,London,Economy,3220.0
+3604,No,2,Nut Free,2024-06-09,PA010,Tokyo,New York,Premium Economy,1035.0
+3606,No,1,Dairy Free,2024-08-31,PA002,New York,London,Premium Economy,1080.0
+3607,No,1,Vegetarian,2024-03-30,PA012,Tokyo,Perth,Economy,1170.0
+3608,No,3,Dairy Free,2024-08-28,PA012,Tokyo,Perth,First Class,314.0
+3612,No,2,Dairy Free,2024-02-15,PA012,Tokyo,Perth,Business Class,342.0
+3614,No,0,None,2024-05-02,PA002,New York,London,First Class,538.0
+3615,No,2,Egg Free,2024-09-25,PA007,New York,Perth,Economy,1380.0
+3616,No,3,None,2024-12-10,PA003,London,Perth,Premium Economy,1712.5
+3619,No,3,Vegetarian,2024-12-26,PA003,London,Perth,Premium Economy,1377.5
+3622,No,0,Vegetarian,2024-02-12,PA005,London,Tokyo,First Class,455.0
+3624,No,1,None,2024-03-08,PA006,Tokyo,London,Premium Economy,1245.0
+3627,No,2,None,2024-03-27,PA003,London,Perth,Business Class,746.4
+3629,No,3,None,2024-07-31,PA010,Tokyo,New York,Business Class,531.6
+3631,No,0,Vegetarian,2024-06-04,PA002,New York,London,Business Class,522.0
+3634,No,1,Egg Free,2024-05-27,PA006,Tokyo,London,Economy,3370.0
+3636,No,3,Egg Free,2024-01-23,PA005,London,Tokyo,Economy,2780.0
+3638,No,0,Vegan,2024-12-05,PA010,Tokyo,New York,Economy,3230.0
+3639,No,1,Egg Free,2024-04-16,PA012,Tokyo,Perth,First Class,423.0
+3640,No,3,Dairy Free,2024-11-17,PA010,Tokyo,New York,First Class,202.0
+3642,No,0,None,2024-02-07,PA007,New York,Perth,Premium Economy,515.0
+3645,No,3,Vegetarian,2024-05-25,PA007,New York,Perth,First Class,381.0
+3646,No,0,Vegetarian,2024-01-31,PA010,Tokyo,New York,Economy,3445.0
+3647,No,2,Nut Free,2024-10-02,PA002,New York,London,Business Class,732.0
+3648,No,0,Vegan,2024-12-17,PA011,Perth,Tokyo,First Class,201.0
+3650,No,2,Vegetarian,2024-08-27,PA012,Tokyo,Perth,Business Class,414.0
+3651,No,0,Vegan,2024-02-19,PA002,New York,London,First Class,238.0
+3652,No,2,Vegetarian,2024-01-20,PA009,New York,Tokyo,Business Class,769.1999999999998
+3654,No,2,Vegan,2024-03-12,PA002,New York,London,Business Class,331.2
+3655,No,3,Vegetarian,2024-01-18,PA006,Tokyo,London,Business Class,595.1999999999999
+3656,No,2,Dairy Free,2024-05-13,PA006,Tokyo,London,First Class,520.0
+3659,No,0,Vegan,2024-05-16,PA003,London,Perth,Premium Economy,1537.5
+3660,No,1,Vegan,2024-06-10,PA001,London,New York,Business Class,309.6
+3661,No,2,Nut Free,2024-08-14,PA001,London,New York,Economy,1520.0
+3663,No,2,Egg Free,2024-12-09,PA011,Perth,Tokyo,Premium Economy,1575.0
+3665,No,0,Vegan,2024-03-02,PA009,New York,Tokyo,First Class,619.0
+3666,No,0,Egg Free,2024-01-27,PA005,London,Tokyo,Economy,2235.0
+3669,No,1,Vegetarian,2024-01-05,PA001,London,New York,Business Class,654.0
+3670,No,0,Egg Free,2024-10-07,PA010,Tokyo,New York,Premium Economy,1372.5
+3671,No,3,Dairy Free,2024-12-05,PA004,Perth,London,Economy,1445.0
+3675,No,3,Egg Free,2024-12-18,PA004,Perth,London,First Class,347.0
+3676,No,3,Vegetarian,2024-03-03,PA009,New York,Tokyo,Premium Economy,1412.5
+3680,No,1,None,2024-03-18,PA012,Tokyo,Perth,Economy,1495.0
+3681,No,3,Egg Free,2024-06-22,PA008,Perth,New York,First Class,553.0
+3684,No,0,Vegan,2024-05-09,PA001,London,New York,Economy,3010.0
+3685,No,2,Dairy Free,2024-02-29,PA003,London,Perth,Business Class,535.1999999999999
+3688,No,0,Vegetarian,2024-04-28,PA003,London,Perth,First Class,581.0
+3690,No,0,Vegan,2024-08-16,PA011,Perth,Tokyo,Premium Economy,1067.5
+3691,No,1,None,2024-10-16,PA011,Perth,Tokyo,Premium Economy,1730.0
+3693,No,1,None,2024-08-29,PA010,Tokyo,New York,Business Class,336.0
+3695,No,3,Dairy Free,2024-03-31,PA012,Tokyo,Perth,Premium Economy,930.0
+3700,No,2,Vegan,2024-09-25,PA005,London,Tokyo,Economy,3285.0
+3703,No,0,Vegan,2024-05-09,PA007,New York,Perth,First Class,352.0
+3704,No,0,Dairy Free,2024-12-16,PA009,New York,Tokyo,Economy,1580.0
+3707,No,0,Vegetarian,2024-06-24,PA001,London,New York,Economy,3155.0
+3708,No,2,Nut Free,2024-04-10,PA011,Perth,Tokyo,Premium Economy,1155.0
+3710,No,1,Egg Free,2024-06-18,PA010,Tokyo,New York,Premium Economy,1527.5
+3714,No,1,Dairy Free,2024-10-20,PA004,Perth,London,First Class,291.0
+3715,No,3,Nut Free,2024-05-29,PA008,Perth,New York,Business Class,380.4
+3716,No,2,Egg Free,2024-11-23,PA003,London,Perth,Economy,1910.0
+3719,No,1,Vegetarian,2024-01-27,PA008,Perth,New York,First Class,623.0
+3724,No,0,Vegan,2024-08-24,PA011,Perth,Tokyo,First Class,683.0
+3725,No,0,Egg Free,2024-07-28,PA010,Tokyo,New York,Premium Economy,1190.0
+3727,No,1,Vegetarian,2024-06-02,PA003,London,Perth,Business Class,783.6
+3730,No,3,None,2024-05-18,PA002,New York,London,First Class,562.0
+3731,No,3,Vegan,2024-04-25,PA003,London,Perth,Premium Economy,1452.5
+3733,No,0,Egg Free,2024-05-22,PA010,Tokyo,New York,Business Class,622.8
+3734,No,3,Egg Free,2024-07-05,PA011,Perth,Tokyo,First Class,436.0
+3735,No,1,Vegetarian,2024-01-17,PA002,New York,London,Economy,2800.0
+3736,No,3,Dairy Free,2024-01-27,PA003,London,Perth,Economy,3445.0
+3738,No,0,Vegan,2024-05-19,PA008,Perth,New York,Economy,1635.0
+3739,No,3,Dairy Free,2024-07-18,PA002,New York,London,First Class,571.0
+3740,No,3,Dairy Free,2024-08-12,PA001,London,New York,Economy,2415.0
+3741,No,3,Nut Free,2024-02-10,PA002,New York,London,Business Class,822.0
+3742,No,3,Nut Free,2024-03-21,PA001,London,New York,Business Class,564.0
+3744,No,2,None,2024-02-01,PA012,Tokyo,Perth,Premium Economy,887.5
+3746,No,2,None,2024-11-04,PA007,New York,Perth,Business Class,516.0
+3750,No,0,Egg Free,2024-03-20,PA003,London,Perth,Economy,2335.0
+3753,No,2,Egg Free,2024-10-10,PA002,New York,London,Economy,2230.0
+3755,No,0,Vegetarian,2024-05-12,PA006,Tokyo,London,Economy,2265.0
+3756,No,2,Vegan,2024-08-25,PA008,Perth,New York,Premium Economy,957.5
+3757,No,1,Egg Free,2024-03-22,PA008,Perth,New York,Business Class,603.6
+3758,No,3,None,2024-12-29,PA002,New York,London,First Class,441.0
+3760,No,1,Vegetarian,2024-04-11,PA008,Perth,New York,First Class,552.0
+3765,No,1,None,2024-10-01,PA011,Perth,Tokyo,First Class,227.0
+3767,No,3,Vegan,2024-01-30,PA002,New York,London,First Class,545.0
+3768,No,3,Vegetarian,2024-03-04,PA004,Perth,London,Business Class,762.0
+3769,No,0,Vegetarian,2024-08-29,PA009,New York,Tokyo,Premium Economy,1680.0
+3771,No,2,Vegetarian,2024-03-06,PA006,Tokyo,London,Premium Economy,940.0
+3773,No,3,Nut Free,2024-05-05,PA009,New York,Tokyo,Economy,1360.0
+3774,No,1,Dairy Free,2024-06-14,PA008,Perth,New York,First Class,245.0
+3775,No,2,Egg Free,2024-01-16,PA010,Tokyo,New York,Economy,2410.0
+3776,No,0,Nut Free,2024-08-16,PA005,London,Tokyo,Premium Economy,960.0
